@@ -1,0 +1,6855 @@
+{
+  "subject": "BIO",
+  "version": 1,
+  "questions": [
+    {
+      "id": "BIO_ELEC_BE_001",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在重組DNA技術中，用來在特定位置切割DNA分子的「分子剪刀」是什麼？",
+      "options": [
+        "A. DNA連接酶",
+        "B. 限制性內切酶",
+        "C. DNA聚合酶",
+        "D. 解旋酶"
+      ],
+      "answer": "B",
+      "explanation": "限制性內切酶能識別特定的DNA序列並在該位置切割，是基因工程中的關鍵工具。DNA連接酶用於連接DNA片段，DNA聚合酶用於複製DNA，解旋酶用於解開DNA雙螺旋。",
+      "tags": [
+        "重組DNA技術",
+        "限制性內切酶",
+        "工具酶"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_002",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在基因工程中，負責將兩個DNA片段連接起來的「分子膠水」是什麼？",
+      "options": [
+        "A. 限制性內切酶",
+        "B. 解旋酶",
+        "C. DNA連接酶",
+        "D. 逆轉錄酶"
+      ],
+      "answer": "C",
+      "explanation": "DNA連接酶能夠催化形成磷酸二酯鍵，將兩個DNA片段（如目標基因和載體）連接在一起，形成重組DNA分子。",
+      "tags": [
+        "重組DNA技術",
+        "DNA連接酶",
+        "工具酶"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_003",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在重組DNA技術中，常用來將外源基因導入細菌細胞並使其複製的小型環狀DNA分子是什麼？",
+      "options": [
+        "A. 染色體",
+        "B. 質粒",
+        "C. 病毒",
+        "D. 線粒體DNA"
+      ],
+      "answer": "B",
+      "explanation": "質粒是細菌細胞內染色體外的小型環狀DNA分子，可以獨立複製，是基因工程中最常用的載體之一。",
+      "tags": [
+        "重組DNA技術",
+        "載體",
+        "質粒"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_004",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "為了確保質粒和目的基因能成功連接，通常使用同一種限制性內切酶進行切割，這樣會產生什麼末端？",
+      "options": [
+        "A. 平末端",
+        "B. 黏性末端",
+        "C. 鈍性末端",
+        "D. 隨機末端"
+      ],
+      "answer": "B",
+      "explanation": "同一種限制性內切酶切割DNA會產生互補的黏性末端（單鏈突出），這些末端可以通過鹼基互補配對原則連接，提高重組效率。",
+      "tags": [
+        "重組DNA技術",
+        "黏性末端",
+        "限制性內切酶"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_005",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在基因工程中，將重組DNA分子導入細菌細胞的過程通常稱為什麼？",
+      "options": [
+        "A. 轉染",
+        "B. 轉化",
+        "C. 轉導",
+        "D. 雜交"
+      ],
+      "answer": "B",
+      "explanation": "轉化是指將外源DNA（如重組質粒）導入細菌細胞的過程。轉染通常指將DNA導入真核細胞。轉導是通過病毒介導的基因轉移。",
+      "tags": [
+        "重組DNA技術",
+        "轉化",
+        "基因導入"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_006",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "質粒上通常帶有抗生素抗性基因，其主要作用是什麼？",
+      "options": [
+        "A. 幫助質粒複製",
+        "B. 作為篩選標記，區分成功轉化和未轉化的細菌",
+        "C. 增強目的基因的表達",
+        "D. 保護質粒不被限制酶切割"
+      ],
+      "answer": "B",
+      "explanation": "抗生素抗性基因是常用的篩選標記。在含有抗生素的培養基上，只有成功轉化（獲得質粒）的細菌才能存活，未轉化的細菌則被殺死。",
+      "tags": [
+        "重組DNA技術",
+        "篩選標記",
+        "抗生素抗性基因"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_007",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "利用基因改造細菌生產人類胰島素，首先需要從人類細胞中分離出什麼？",
+      "options": [
+        "A. 胰島素蛋白",
+        "B. 胰島素基因",
+        "C. 胰島素mRNA",
+        "D. 胰島素受體"
+      ],
+      "answer": "B",
+      "explanation": "要生產人類胰島素，首先需要獲得編碼人類胰島素的基因（目的基因），然後將其插入到細菌的質粒中，讓細菌表達該基因。",
+      "tags": [
+        "重組DNA技術",
+        "目的基因",
+        "基因工程應用"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_008",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "利用基因改造細菌生產人類胰島素，相比從動物胰臟提取，一個主要優勢是什麼？",
+      "options": [
+        "A. 生產成本更低",
+        "B. 產量更高",
+        "C. 產生的胰島素與人類自身胰島素完全相同，免疫反應更小",
+        "D. 以上都是"
+      ],
+      "answer": "D",
+      "explanation": "基因工程生產的胰島素純度高、產量大、成本低，且氨基酸序列與人類胰島素完全一致，大大降低了因使用動物胰島素可能引起的過敏或免疫反應。",
+      "tags": [
+        "重組DNA技術",
+        "基因工程應用",
+        "胰島素生產"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_009",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在基因工程中，將目的基因與載體連接後形成的分子叫什麼？",
+      "options": [
+        "A. 基因組DNA",
+        "B. 互補DNA (cDNA)",
+        "C. 重組DNA",
+        "D. 質粒DNA"
+      ],
+      "answer": "C",
+      "explanation": "重組DNA是指通過人工方法將不同來源的DNA片段（如目的基因和載體）重新組合而成的DNA分子。",
+      "tags": [
+        "重組DNA技術",
+        "重組DNA",
+        "基本概念"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_010",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項不是基因工程中常用的載體？",
+      "options": [
+        "A. 質粒",
+        "B. 病毒",
+        "C. 核糖體",
+        "D. 噬菌體"
+      ],
+      "answer": "C",
+      "explanation": "核糖體是合成蛋白質的細胞器，不是DNA分子，不能作為載體。質粒、病毒和噬菌體都是基因工程中常用的載體。",
+      "tags": [
+        "重組DNA技術",
+        "載體",
+        "基本概念"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_011",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "PCR技術的中文名稱是什麼？",
+      "options": [
+        "A. 凝膠電泳",
+        "B. 聚合酶鏈式反應",
+        "C. DNA測序",
+        "D. 基因克隆"
+      ],
+      "answer": "B",
+      "explanation": "PCR是Polymerase Chain Reaction的縮寫，中文全稱為聚合酶鏈式反應，是一種在體外快速擴增特定DNA片段的技術。",
+      "tags": [
+        "PCR",
+        "基本概念",
+        "聚合酶鏈式反應"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_012",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "PCR技術的主要目的是什麼？",
+      "options": [
+        "A. 將DNA片段連接起來",
+        "B. 切割DNA分子",
+        "C. 大量複製特定的DNA片段",
+        "D. 分離不同長度的DNA片段"
+      ],
+      "answer": "C",
+      "explanation": "PCR的核心功能是在短時間內將微量的特定DNA片段（目的基因）擴增數百萬倍，以便於後續分析。",
+      "tags": [
+        "PCR",
+        "目的",
+        "DNA擴增"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_013",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "PCR反應中，用於與單鏈DNA模板結合並啟動DNA合成的短鏈核苷酸片段叫什麼？",
+      "options": [
+        "A. 引物",
+        "B. 探針",
+        "C. 模板",
+        "D. 連接酶"
+      ],
+      "answer": "A",
+      "explanation": "引物是一段人工合成的短DNA序列，與目標DNA序列的末端互補。在PCR中，DNA聚合酶從引物開始延伸，合成新的DNA鏈。",
+      "tags": [
+        "PCR",
+        "引物",
+        "基本組分"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_014",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "PCR反應中，負責合成新DNA鏈的關鍵酶是什麼？",
+      "options": [
+        "A. 限制性內切酶",
+        "B. DNA連接酶",
+        "C. 耐高溫的DNA聚合酶 (如Taq酶)",
+        "D. 解旋酶"
+      ],
+      "answer": "C",
+      "explanation": "PCR需要在高溫下進行，因此需要使用從嗜熱細菌中提取的耐高溫DNA聚合酶（如Taq酶），它在高溫下仍能保持活性。",
+      "tags": [
+        "PCR",
+        "DNA聚合酶",
+        "Taq酶"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_015",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "PCR的一個循環通常包括三個步驟，其正確順序是什麼？",
+      "options": [
+        "A. 延伸 → 退火 → 變性",
+        "B. 變性 → 退火 → 延伸",
+        "C. 退火 → 變性 → 延伸",
+        "D. 變性 → 延伸 → 退火"
+      ],
+      "answer": "B",
+      "explanation": "PCR循環的標準步驟是：1. 變性（高溫使DNA雙鏈解開）；2. 退火（降溫使引物與模板結合）；3. 延伸（升溫，DNA聚合酶合成新鏈）。",
+      "tags": [
+        "PCR",
+        "循環步驟",
+        "變性退火延伸"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_016",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在PCR的變性步驟中，溫度通常升高到大約多少度，以使DNA雙鏈分離？",
+      "options": [
+        "A. 37°C",
+        "B. 55°C",
+        "C. 72°C",
+        "D. 94-98°C"
+      ],
+      "answer": "D",
+      "explanation": "變性步驟需要高溫（約94-98°C）來破壞DNA雙鏈之間的氫鍵，使其解旋成為單鏈，為引物結合提供模板。",
+      "tags": [
+        "PCR",
+        "變性",
+        "溫度"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_017",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "DNA指紋分析技術主要依賴於個體間DNA的什麼差異？",
+      "options": [
+        "A. 基因數量",
+        "B. 染色體數目",
+        "C. 特定重複序列（如VNTR）的重複次數",
+        "D. DNA雙螺旋的旋向"
+      ],
+      "answer": "C",
+      "explanation": "DNA指紋分析利用的是個體間DNA上非編碼區的可變數目串聯重複序列（VNTR）或短串聯重複序列（STR）的重複次數不同，從而形成獨特的圖譜。",
+      "tags": [
+        "DNA指紋分析",
+        "VNTR",
+        "STR"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_018",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在法醫學中，DNA指紋分析可以用來做什麼？",
+      "options": [
+        "A. 確定血型",
+        "B. 鑑定犯罪嫌疑人與現場證據是否匹配",
+        "C. 判斷死亡時間",
+        "D. 分析毒物成分"
+      ],
+      "answer": "B",
+      "explanation": "DNA指紋分析具有高度的個體特異性，因此常用於法醫學中，通過比對犯罪現場遺留的DNA（如血液、精液、毛髮）與嫌疑人的DNA，來確定或排除嫌疑人。",
+      "tags": [
+        "DNA指紋分析",
+        "法醫學應用",
+        "身份鑑定"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_019",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在親子鑑定中，孩子的DNA指紋條帶應該來自哪裡？",
+      "options": [
+        "A. 全部來自父親",
+        "B. 全部來自母親",
+        "C. 一半條帶與父親匹配，另一半與母親匹配",
+        "D. 與父母都不匹配"
+      ],
+      "answer": "C",
+      "explanation": "孩子的DNA一半來自父親，一半來自母親。因此，在DNA指紋圖譜中，孩子的每一條帶都能在其父親或母親的圖譜中找到對應的條帶。",
+      "tags": [
+        "DNA指紋分析",
+        "親子鑑定",
+        "遺傳規律"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_020",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "分離不同長度的DNA片段，並用於構建DNA指紋圖譜的技術是什麼？",
+      "options": [
+        "A. PCR",
+        "B. 凝膠電泳",
+        "C. DNA測序",
+        "D. 基因克隆"
+      ],
+      "answer": "B",
+      "explanation": "凝膠電泳利用DNA分子帶負電荷的特性，在電場中移動。較短的DNA片段移動較快，較長的移動較慢，從而根據大小將DNA片段分離開來，形成條帶圖譜。",
+      "tags": [
+        "DNA指紋分析",
+        "凝膠電泳",
+        "分離技術"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_021",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在犯罪現場發現少量血跡，為了進行DNA指紋分析，首先應該使用什麼技術來增加DNA的量？",
+      "options": [
+        "A. 凝膠電泳",
+        "B. 限制酶切",
+        "C. PCR",
+        "D. DNA連接"
+      ],
+      "answer": "C",
+      "explanation": "犯罪現場的DNA樣本往往非常微量，無法直接進行指紋分析。PCR技術可以快速擴增這些微量的DNA，使其達到可分析的量。",
+      "tags": [
+        "PCR",
+        "DNA指紋分析",
+        "法醫學應用"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_022",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "除了法醫學，DNA指紋分析還可以應用於以下哪個領域？",
+      "options": [
+        "A. 診斷遺傳病",
+        "B. 研究生物進化關係",
+        "C. 鑑定中藥材的真偽",
+        "D. 以上都是"
+      ],
+      "answer": "D",
+      "explanation": "DNA指紋分析應用廣泛，包括法醫學（身份鑑定）、親子鑑定、遺傳病診斷、物種鑑定（如中藥材）、進化生物學研究等。",
+      "tags": [
+        "DNA指紋分析",
+        "應用",
+        "多領域"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_023",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "世界上第一隻體細胞克隆哺乳動物「多莉羊」的誕生，證明了什麼？",
+      "options": [
+        "A. 動物可以進行有性生殖",
+        "B. 已分化的動物體細胞核仍具有全能性",
+        "C. 克隆技術可以完美複製所有生物",
+        "D. 胚胎分割技術已經成熟"
+      ],
+      "answer": "B",
+      "explanation": "多莉羊的誕生證明了已分化的體細胞（乳腺細胞）的細胞核仍然含有發育成完整個體的全部遺傳信息，即細胞核具有全能性。",
+      "tags": [
+        "克隆技術",
+        "多莉羊",
+        "細胞全能性"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_024",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "克隆多莉羊時，科學家將體細胞的細胞核移植到了什麼細胞中？",
+      "options": [
+        "A. 受精卵",
+        "B. 去核的卵細胞",
+        "C. 精子",
+        "D. 另一個體細胞"
+      ],
+      "answer": "B",
+      "explanation": "體細胞核移植技術是將供體體細胞的細胞核取出，植入一個已經去除自身細胞核的卵細胞（受體細胞）中，然後激活該細胞使其發育。",
+      "tags": [
+        "克隆技術",
+        "核移植",
+        "技術流程"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_025",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "克隆技術產生的後代，其遺傳物質主要來自誰？",
+      "options": [
+        "A. 提供細胞核的個體",
+        "B. 提供卵細胞的個體",
+        "C. 代孕母親",
+        "D. 以上三者各佔三分之一"
+      ],
+      "answer": "A",
+      "explanation": "克隆動物的細胞核DNA完全來自提供細胞核的個體，因此其核遺傳物質與供核個體幾乎完全相同。卵細胞提供細胞質（含少量線粒體DNA），代孕母親只提供營養和生長環境。",
+      "tags": [
+        "克隆技術",
+        "遺傳物質來源",
+        "核移植"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_026",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "GMO是以下哪個術語的縮寫？",
+      "options": [
+        "A. 基因改造生物",
+        "B. 基因組組織",
+        "C. 基因操作",
+        "D. 基因突變體"
+      ],
+      "answer": "A",
+      "explanation": "GMO是Genetically Modified Organism的縮寫，中文意為「基因改造生物」，指通過基因工程技術改變了其遺傳組成的生物。",
+      "tags": [
+        "GMO",
+        "基本概念",
+        "縮寫"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_027",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項是種植抗蟲轉基因作物（如Bt玉米）可能帶來的好處？",
+      "options": [
+        "A. 減少化學殺蟲劑的使用",
+        "B. 提高作物產量",
+        "C. 降低農民的勞動成本",
+        "D. 以上都是"
+      ],
+      "answer": "D",
+      "explanation": "抗蟲轉基因作物能自身產生殺蟲蛋白，從而減少農藥噴灑，降低成本和勞動強度，並因蟲害減少而提高產量。",
+      "tags": [
+        "GMO",
+        "轉基因作物",
+        "優點"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_028",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "關於轉基因食品的安全性，以下哪種說法是正確的？",
+      "options": [
+        "A. 所有轉基因食品都是不安全的",
+        "B. 所有轉基因食品都是絕對安全的",
+        "C. 上市的轉基因食品經過了嚴格的安全性評估，被認為是安全的",
+        "D. 轉基因食品的安全性無法評估"
+      ],
+      "answer": "C",
+      "explanation": "目前國際上對轉基因食品實行嚴格的安全評估和審批制度。經批准上市的轉基因食品被認為是與傳統食品同樣安全的。但科學界仍在持續關注其長期影響。",
+      "tags": [
+        "GMO",
+        "食品安全",
+        "倫理"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_029",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "一個關於GMO的倫理擔憂是「基因污染」，這指的是什麼？",
+      "options": [
+        "A. 轉基因生物的排泄物污染環境",
+        "B. 轉基因作物的基因通過花粉傳播到野生近緣種中",
+        "C. 轉基因食品導致人體基因突變",
+        "D. 生產GMO的工廠排放污染物"
+      ],
+      "answer": "B",
+      "explanation": "基因污染主要指轉基因作物的花粉通過風或昆蟲等媒介，傳播到非轉基因作物或野生近緣種中，導致外源基因在自然種群中擴散。",
+      "tags": [
+        "GMO",
+        "倫理",
+        "基因污染"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_030",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "克隆人類在倫理上存在巨大爭議，一個主要原因是？",
+      "options": [
+        "A. 技術不成熟，成功率低且存在健康風險",
+        "B. 可能侵犯人的尊嚴和獨特性",
+        "C. 可能被濫用，用於製造「定製嬰兒」",
+        "D. 以上都是"
+      ],
+      "answer": "D",
+      "explanation": "克隆人類面臨技術、安全和倫理等多重挑戰。技術不成熟導致流產、畸形率高；倫理上涉及人的尊嚴、身份認同以及可能被濫用於非治療性目的等問題。",
+      "tags": [
+        "克隆技術",
+        "倫理",
+        "人類克隆"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_031",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在基因工程中，我們想要轉移並表達的基因通常被稱為什麼？",
+      "options": [
+        "A. 標記基因",
+        "B. 目的基因",
+        "C. 載體基因",
+        "D. 啟動基因"
+      ],
+      "answer": "B",
+      "explanation": "目的基因是指我們感興趣的、想要從一種生物中提取並轉移到另一種生物中去的基因，例如人類胰島素基因。",
+      "tags": [
+        "重組DNA技術",
+        "目的基因",
+        "基本概念"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_032",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "將重組質粒導入細菌後，在含有抗生素的培養基上培養，目的是什麼？",
+      "options": [
+        "A. 殺死所有細菌",
+        "B. 促進細菌生長",
+        "C. 篩選出成功導入質粒的細菌",
+        "D. 誘導目的基因表達"
+      ],
+      "answer": "C",
+      "explanation": "質粒上帶有抗生素抗性基因，只有成功導入質粒的細菌才能在含有該抗生素的培養基上存活，從而被篩選出來。",
+      "tags": [
+        "重組DNA技術",
+        "篩選",
+        "抗生素抗性"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_033",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪個不是基因工程的基本步驟？",
+      "options": [
+        "A. 獲取目的基因",
+        "B. 將目的基因與載體連接",
+        "C. 將重組DNA導入受體細胞",
+        "D. 將受體細胞進行減數分裂"
+      ],
+      "answer": "D",
+      "explanation": "基因工程的基本步驟包括：獲取目的基因、構建重組DNA（連接）、導入受體細胞、篩選和表達。減數分裂是生殖細胞形成的過程，不是基因工程的步驟。",
+      "tags": [
+        "重組DNA技術",
+        "基本步驟",
+        "流程"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_034",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "PCR反應體系中不需要以下哪種物質？",
+      "options": [
+        "A. DNA模板",
+        "B. 引物",
+        "C. 核糖體",
+        "D. 耐高溫的DNA聚合酶"
+      ],
+      "answer": "C",
+      "explanation": "PCR是體外DNA擴增，不需要核糖體。核糖體是細胞內進行蛋白質合成的細胞器。PCR需要DNA模板、引物、DNA聚合酶和四種脫氧核苷酸。",
+      "tags": [
+        "PCR",
+        "反應體系",
+        "組分"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_035",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "DNA指紋圖譜中，不同位置的條帶代表什麼？",
+      "options": [
+        "A. 不同顏色的DNA",
+        "B. 不同長度的DNA片段",
+        "C. 不同種類的鹼基",
+        "D. 不同數量的染色體"
+      ],
+      "answer": "B",
+      "explanation": "在凝膠電泳中，DNA片段根據大小（長度）分離。較短的片段移動快，位於圖譜下方；較長的片段移動慢，位於圖譜上方。因此，不同位置的條帶代表不同長度的DNA片段。",
+      "tags": [
+        "DNA指紋分析",
+        "凝膠電泳",
+        "條帶解讀"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_036",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在親子鑑定中，如果孩子的某條DNA帶既不在父親也不在母親的圖譜中出現，最可能的原因是？",
+      "options": [
+        "A. 孩子發生了基因突變",
+        "B. 孩子不是這對父母親生的",
+        "C. 實驗操作失誤",
+        "D. 以上都有可能"
+      ],
+      "answer": "D",
+      "explanation": "正常情況下，孩子的DNA條帶應全部來自父母。如果出現無法匹配的條帶，可能的原因包括：非親生、罕見的基因突變，或實驗過程中的污染或錯誤。",
+      "tags": [
+        "DNA指紋分析",
+        "親子鑑定",
+        "結果分析"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_037",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "治療性克隆與生殖性克隆的主要區別是什麼？",
+      "options": [
+        "A. 使用的技術不同",
+        "B. 克隆的目的不同：前者用於獲取幹細胞治療疾病，後者用於創造完整個體",
+        "C. 克隆的細胞類型不同",
+        "D. 克隆的效率不同"
+      ],
+      "answer": "B",
+      "explanation": "生殖性克隆的目的是創造一個與供體遺傳上相同的新個體（如克隆人）。治療性克隆的目的是通過克隆技術獲得胚胎幹細胞，用於研究和治療疾病，不將胚胎植入子宮發育成個體。",
+      "tags": [
+        "克隆技術",
+        "倫理",
+        "治療性克隆",
+        "生殖性克隆"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_038",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項不是反對種植轉基因作物的常見論點？",
+      "options": [
+        "A. 可能導致超級雜草的出現",
+        "B. 可能影響生物多樣性",
+        "C. 可以增加作物產量，解決糧食問題",
+        "D. 長期食用對人體健康的影響未知"
+      ],
+      "answer": "C",
+      "explanation": "「增加作物產量，解決糧食問題」是支持轉基因作物的論點，而非反對的論點。其他選項如超級雜草、生物多樣性影響和未知健康風險都是常見的擔憂。",
+      "tags": [
+        "GMO",
+        "倫理",
+        "爭議"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_039",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "限制性內切酶切割DNA後產生的末端類型有哪兩種？",
+      "options": [
+        "A. 5'端和3'端",
+        "B. 黏性末端和平末端",
+        "C. 編碼鏈和模板鏈",
+        "D. 有義鏈和反義鏈"
+      ],
+      "answer": "B",
+      "explanation": "限制性內切酶切割DNA後，根據切割方式不同，會產生兩種末端：一種是帶有單鏈突出部分的黏性末端，另一種是齊平的平末端。",
+      "tags": [
+        "重組DNA技術",
+        "限制性內切酶",
+        "末端類型"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_040",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在PCR的退火步驟中，溫度降低的目的是什麼？",
+      "options": [
+        "A. 使DNA聚合酶失活",
+        "B. 使引物與單鏈DNA模板結合",
+        "C. 使DNA雙鏈重新結合",
+        "D. 使新合成的DNA鏈釋放"
+      ],
+      "answer": "B",
+      "explanation": "退火步驟的溫度（通常50-65°C）低於變性溫度，高於延伸溫度，目的是讓引物能夠特異性地與單鏈DNA模板上的互補序列結合。",
+      "tags": [
+        "PCR",
+        "退火",
+        "引物結合"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_041",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "進行DNA指紋分析時，首先需要用限制性內切酶處理DNA樣本，其目的是什麼？",
+      "options": [
+        "A. 將DNA分子複製",
+        "B. 將DNA分子切割成不同長度的片段",
+        "C. 給DNA分子染色",
+        "D. 將DNA分子變性"
+      ],
+      "answer": "B",
+      "explanation": "限制性內切酶在特定的序列處切割DNA，由於個體間DNA序列的差異（如VNTR重複次數不同），切割後會產生長度各異的DNA片段，這些片段經電泳分離後形成指紋圖譜。",
+      "tags": [
+        "DNA指紋分析",
+        "限制性內切酶",
+        "片段化"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_042",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪種生物技術不涉及對生物遺傳物質的直接改造？",
+      "options": [
+        "A. 轉基因技術",
+        "B. 克隆技術",
+        "C. 基因敲除技術",
+        "D. 誘變育種"
+      ],
+      "answer": "B",
+      "explanation": "克隆技術（如體細胞核移植）不直接改變生物的基因，而是複製現有生物的基因組。轉基因和基因敲除直接修改了基因。誘變育種通過物理化學方法誘導基因突變，也涉及遺傳物質改變。",
+      "tags": [
+        "克隆技術",
+        "GMO",
+        "技術比較"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_043",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在基因工程中，如果要讓細菌生產人的某種蛋白，除了需要該蛋白的基因，還需要在基因前面加上什麼，以確保細菌能識別並開始轉錄？",
+      "options": [
+        "A. 終止子",
+        "B. 啟動子",
+        "C. 抗生素抗性基因",
+        "D. 複製起點"
+      ],
+      "answer": "B",
+      "explanation": "啟動子是RNA聚合酶識別和結合並開始轉錄的DNA序列。為了讓細菌的轉錄系統識別並表達人類基因，需要在其前面加上一個細菌可以識別的啟動子。",
+      "tags": [
+        "重組DNA技術",
+        "啟動子",
+        "基因表達"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_044",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "PCR技術能夠擴增特定的DNA片段，其特異性主要取決於什麼？",
+      "options": [
+        "A. DNA聚合酶的種類",
+        "B. 引物的序列",
+        "C. 反應體系的溫度",
+        "D. 模板DNA的長度"
+      ],
+      "answer": "B",
+      "explanation": "PCR的特異性由引物決定。只有與引物序列互補的DNA區域才會被擴增。設計特異性引物是PCR成功的關鍵。",
+      "tags": [
+        "PCR",
+        "特異性",
+        "引物"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_045",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在凝膠電泳中，DNA片段向哪個方向移動？",
+      "options": [
+        "A. 從正極向負極",
+        "B. 從負極向正極",
+        "C. 不移動",
+        "D. 隨機移動"
+      ],
+      "answer": "B",
+      "explanation": "DNA分子帶負電荷，在電場中會向正極移動。因此，在凝膠電泳中，DNA片段從負極（黑色電極）向正極（紅色電極）移動。",
+      "tags": [
+        "DNA指紋分析",
+        "凝膠電泳",
+        "電荷"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_046",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "關於克隆，以下哪種說法是錯誤的？",
+      "options": [
+        "A. 克隆動物與供核動物的核DNA完全相同",
+        "B. 克隆技術可以用於拯救瀕危動物",
+        "C. 克隆動物是完全相同的「複製品」，沒有任何差異",
+        "D. 克隆技術成功率通常較低"
+      ],
+      "answer": "C",
+      "explanation": "雖然克隆動物的核DNA與供體相同，但它們在線粒體DNA（來自卵細胞）、表觀遺傳修飾以及後天環境影響下，仍會存在差異，並非100%相同的複製品。",
+      "tags": [
+        "克隆技術",
+        "基本概念",
+        "誤區"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_047",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在基因工程中，使用病毒作為載體有什麼優點？",
+      "options": [
+        "A. 可以高效地將基因導入宿主細胞",
+        "B. 不會引起任何免疫反應",
+        "C. 可以攜帶任意大小的基因",
+        "D. 比質粒更安全"
+      ],
+      "answer": "A",
+      "explanation": "病毒在進化過程中形成了高效感染宿主細胞並將自身DNA/RNA注入細胞的能力，因此常被改造為基因載體，用於基因治療等領域。",
+      "tags": [
+        "重組DNA技術",
+        "病毒載體",
+        "優點"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_048",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "如果PCR反應只進行了一個循環，一個雙鏈DNA模板分子會變成幾個？",
+      "options": [
+        "A. 1個",
+        "B. 2個",
+        "C. 4個",
+        "D. 8個"
+      ],
+      "answer": "B",
+      "explanation": "PCR的一個循環包括變性、退火和延伸。經過一個循環，一個雙鏈DNA分子會變成兩個雙鏈DNA分子。經過n個循環，理論上可得到2^n個DNA分子。",
+      "tags": [
+        "PCR",
+        "循環",
+        "擴增效率"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_049",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項措施可以幫助降低轉基因作物基因污染的風險？",
+      "options": [
+        "A. 在轉基因作物周圍種植非轉基因作物作為隔離帶",
+        "B. 培育不育的轉基因作物",
+        "C. 對轉基因作物進行嚴格監管和標識",
+        "D. 以上都是"
+      ],
+      "answer": "D",
+      "explanation": "隔離帶可以減少花粉傳播；培育不育作物可以防止基因通過種子擴散；嚴格的監管和標識制度有助於追蹤和管理，這些都是降低基因污染風險的有效措施。",
+      "tags": [
+        "GMO",
+        "倫理",
+        "基因污染",
+        "風險管理"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_050",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "基因工程中，將目的基因與質粒連接後，導入細菌，並讓細菌大量生產目的蛋白的過程，屬於什麼水平的生物技術？",
+      "options": [
+        "A. 個體水平",
+        "B. 細胞水平",
+        "C. 分子水平",
+        "D. 器官水平"
+      ],
+      "answer": "C",
+      "explanation": "基因工程是在DNA分子水平上進行設計和操作的，通過對遺傳物質（DNA）的直接操作來改變生物的遺傳性狀，因此屬於分子水平的生物技術。",
+      "tags": [
+        "重組DNA技術",
+        "水平",
+        "分子水平"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_051",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在重組DNA技術中，將目的基因插入質粒載體，首先需要用什麼酶來切割質粒？",
+      "options": [
+        "A. DNA連接酶",
+        "B. 限制性內切酶",
+        "C. DNA聚合酶",
+        "D. 解旋酶"
+      ],
+      "answer": "B",
+      "explanation": "要將目的基因插入質粒，需要先用限制性內切酶在特定位置切割質粒，產生切口，以便後續將目的基因連接上去。",
+      "tags": [
+        "重組DNA技術",
+        "限制性內切酶",
+        "質粒"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_052",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項是基因工程中常用的「載體」？",
+      "options": [
+        "A. 核糖體",
+        "B. 質粒",
+        "C. 線粒體",
+        "D. 細胞膜"
+      ],
+      "answer": "B",
+      "explanation": "質粒是細菌中常見的小型環狀DNA分子，可以獨立複製，並能攜帶外源基因進入宿主細胞，是基因工程中最常用的載體之一。",
+      "tags": [
+        "重組DNA技術",
+        "載體",
+        "質粒"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_053",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在基因工程中，將重組DNA分子導入細菌細胞的過程，稱為？",
+      "options": [
+        "A. 轉化",
+        "B. 轉染",
+        "C. 轉導",
+        "D. 雜交"
+      ],
+      "answer": "A",
+      "explanation": "轉化是指將外源DNA（如重組質粒）導入細菌細胞的過程。轉染通常指將DNA導入真核細胞，轉導則是由病毒介導的基因轉移。",
+      "tags": [
+        "重組DNA技術",
+        "轉化",
+        "基因導入"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_054",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "質粒上帶有抗生素抗性基因，其主要功能是什麼？",
+      "options": [
+        "A. 幫助質粒複製",
+        "B. 作為篩選標記，區分成功轉化和未轉化的細菌",
+        "C. 增強目的基因的表達",
+        "D. 保護質粒不被限制酶切割"
+      ],
+      "answer": "B",
+      "explanation": "抗生素抗性基因是常用的篩選標記。在含有抗生素的培養基上，只有成功轉化（獲得質粒）的細菌才能存活，未轉化的細菌則被殺死。",
+      "tags": [
+        "重組DNA技術",
+        "篩選標記",
+        "抗生素抗性基因"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_055",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "利用基因改造細菌生產人類胰島素，首先需要從人類細胞中分離出什麼？",
+      "options": [
+        "A. 胰島素蛋白",
+        "B. 胰島素基因",
+        "C. 胰島素mRNA",
+        "D. 胰島素受體"
+      ],
+      "answer": "B",
+      "explanation": "要生產人類胰島素，首先需要獲得編碼人類胰島素的基因（目的基因），然後將其插入到細菌的質粒中，讓細菌表達該基因。",
+      "tags": [
+        "重組DNA技術",
+        "目的基因",
+        "基因工程應用"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_056",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在基因工程中，將目的基因與載體連接後形成的分子叫什麼？",
+      "options": [
+        "A. 基因組DNA",
+        "B. 互補DNA (cDNA)",
+        "C. 重組DNA",
+        "D. 質粒DNA"
+      ],
+      "answer": "C",
+      "explanation": "重組DNA是指通過人工方法將不同來源的DNA片段（如目的基因和載體）重新組合而成的DNA分子。",
+      "tags": [
+        "重組DNA技術",
+        "重組DNA",
+        "基本概念"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_057",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項不是基因工程中常用的載體？",
+      "options": [
+        "A. 質粒",
+        "B. 病毒",
+        "C. 核糖體",
+        "D. 噬菌體"
+      ],
+      "answer": "C",
+      "explanation": "核糖體是合成蛋白質的細胞器，不是DNA分子，不能作為載體。質粒、病毒和噬菌體都是基因工程中常用的載體。",
+      "tags": [
+        "重組DNA技術",
+        "載體",
+        "基本概念"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_058",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在基因工程中，我們想要轉移並表達的基因通常被稱為什麼？",
+      "options": [
+        "A. 標記基因",
+        "B. 目的基因",
+        "C. 載體基因",
+        "D. 啟動基因"
+      ],
+      "answer": "B",
+      "explanation": "目的基因是指我們感興趣的、想要從一種生物中提取並轉移到另一種生物中去的基因，例如人類胰島素基因。",
+      "tags": [
+        "重組DNA技術",
+        "目的基因",
+        "基本概念"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_059",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "將重組質粒導入細菌後，在含有抗生素的培養基上培養，目的是什麼？",
+      "options": [
+        "A. 殺死所有細菌",
+        "B. 促進細菌生長",
+        "C. 篩選出成功導入質粒的細菌",
+        "D. 誘導目的基因表達"
+      ],
+      "answer": "C",
+      "explanation": "質粒上帶有抗生素抗性基因，只有成功導入質粒的細菌才能在含有該抗生素的培養基上存活，從而被篩選出來。",
+      "tags": [
+        "重組DNA技術",
+        "篩選",
+        "抗生素抗性"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_060",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪個不是基因工程的基本步驟？",
+      "options": [
+        "A. 獲取目的基因",
+        "B. 將目的基因與載體連接",
+        "C. 將重組DNA導入受體細胞",
+        "D. 將受體細胞進行減數分裂"
+      ],
+      "answer": "D",
+      "explanation": "基因工程的基本步驟包括：獲取目的基因、構建重組DNA（連接）、導入受體細胞、篩選和表達。減數分裂是生殖細胞形成的過程，不是基因工程的步驟。",
+      "tags": [
+        "重組DNA技術",
+        "基本步驟",
+        "流程"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_061",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "PCR技術的中文名稱是什麼？",
+      "options": [
+        "A. 凝膠電泳",
+        "B. 聚合酶鏈式反應",
+        "C. DNA測序",
+        "D. 基因克隆"
+      ],
+      "answer": "B",
+      "explanation": "PCR是Polymerase Chain Reaction的縮寫，中文全稱為聚合酶鏈式反應，是一種在體外快速擴增特定DNA片段的技術。",
+      "tags": [
+        "PCR",
+        "基本概念",
+        "聚合酶鏈式反應"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_062",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "PCR技術的主要目的是什麼？",
+      "options": [
+        "A. 將DNA片段連接起來",
+        "B. 切割DNA分子",
+        "C. 大量複製特定的DNA片段",
+        "D. 分離不同長度的DNA片段"
+      ],
+      "answer": "C",
+      "explanation": "PCR的核心功能是在短時間內將微量的特定DNA片段（目的基因）擴增數百萬倍，以便於後續分析。",
+      "tags": [
+        "PCR",
+        "目的",
+        "DNA擴增"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_063",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "PCR反應中，用於與單鏈DNA模板結合並啟動DNA合成的短鏈核苷酸片段叫什麼？",
+      "options": [
+        "A. 引物",
+        "B. 探針",
+        "C. 模板",
+        "D. 連接酶"
+      ],
+      "answer": "A",
+      "explanation": "引物是一段人工合成的短DNA序列，與目標DNA序列的末端互補。在PCR中，DNA聚合酶從引物開始延伸，合成新的DNA鏈。",
+      "tags": [
+        "PCR",
+        "引物",
+        "基本組分"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_064",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "PCR反應中，負責合成新DNA鏈的關鍵酶是什麼？",
+      "options": [
+        "A. 限制性內切酶",
+        "B. DNA連接酶",
+        "C. 耐高溫的DNA聚合酶 (如Taq酶)",
+        "D. 解旋酶"
+      ],
+      "answer": "C",
+      "explanation": "PCR需要在高溫下進行，因此需要使用從嗜熱細菌中提取的耐高溫DNA聚合酶（如Taq酶），它在高溫下仍能保持活性。",
+      "tags": [
+        "PCR",
+        "DNA聚合酶",
+        "Taq酶"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_065",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "PCR的一個循環通常包括三個步驟，其正確順序是什麼？",
+      "options": [
+        "A. 延伸 → 退火 → 變性",
+        "B. 變性 → 退火 → 延伸",
+        "C. 退火 → 變性 → 延伸",
+        "D. 變性 → 延伸 → 退火"
+      ],
+      "answer": "B",
+      "explanation": "PCR循環的標準步驟是：1. 變性（高溫使DNA雙鏈解開）；2. 退火（降溫使引物與模板結合）；3. 延伸（升溫，DNA聚合酶合成新鏈）。",
+      "tags": [
+        "PCR",
+        "循環步驟",
+        "變性退火延伸"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_066",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在PCR的變性步驟中，溫度通常升高到大約多少度，以使DNA雙鏈分離？",
+      "options": [
+        "A. 37°C",
+        "B. 55°C",
+        "C. 72°C",
+        "D. 94-98°C"
+      ],
+      "answer": "D",
+      "explanation": "變性步驟需要高溫（約94-98°C）來破壞DNA雙鏈之間的氫鍵，使其解旋成為單鏈，為引物結合提供模板。",
+      "tags": [
+        "PCR",
+        "變性",
+        "溫度"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_067",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "DNA指紋分析技術主要依賴於個體間DNA的什麼差異？",
+      "options": [
+        "A. 基因數量",
+        "B. 染色體數目",
+        "C. 特定重複序列（如VNTR）的重複次數",
+        "D. DNA雙螺旋的旋向"
+      ],
+      "answer": "C",
+      "explanation": "DNA指紋分析利用的是個體間DNA上非編碼區的可變數目串聯重複序列（VNTR）或短串聯重複序列（STR）的重複次數不同，從而形成獨特的圖譜。",
+      "tags": [
+        "DNA指紋分析",
+        "VNTR",
+        "STR"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_068",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在法醫學中，DNA指紋分析可以用來做什麼？",
+      "options": [
+        "A. 確定血型",
+        "B. 鑑定犯罪嫌疑人與現場證據是否匹配",
+        "C. 判斷死亡時間",
+        "D. 分析毒物成分"
+      ],
+      "answer": "B",
+      "explanation": "DNA指紋分析具有高度的個體特異性，因此常用於法醫學中，通過比對犯罪現場遺留的DNA（如血液、精液、毛髮）與嫌疑人的DNA，來確定或排除嫌疑人。",
+      "tags": [
+        "DNA指紋分析",
+        "法醫學應用",
+        "身份鑑定"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_069",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在親子鑑定中，孩子的DNA指紋條帶應該來自哪裡？",
+      "options": [
+        "A. 全部來自父親",
+        "B. 全部來自母親",
+        "C. 一半條帶與父親匹配，另一半與母親匹配",
+        "D. 與父母都不匹配"
+      ],
+      "answer": "C",
+      "explanation": "孩子的DNA一半來自父親，一半來自母親。因此，在DNA指紋圖譜中，孩子的每一條帶都能在其父親或母親的圖譜中找到對應的條帶。",
+      "tags": [
+        "DNA指紋分析",
+        "親子鑑定",
+        "遺傳規律"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_070",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "分離不同長度的DNA片段，並用於構建DNA指紋圖譜的技術是什麼？",
+      "options": [
+        "A. PCR",
+        "B. 凝膠電泳",
+        "C. DNA測序",
+        "D. 基因克隆"
+      ],
+      "answer": "B",
+      "explanation": "凝膠電泳利用DNA分子帶負電荷的特性，在電場中移動。較短的DNA片段移動較快，較長的移動較慢，從而根據大小將DNA片段分離開來，形成條帶圖譜。",
+      "tags": [
+        "DNA指紋分析",
+        "凝膠電泳",
+        "分離技術"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_071",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在犯罪現場發現少量血跡，為了進行DNA指紋分析，首先應該使用什麼技術來增加DNA的量？",
+      "options": [
+        "A. 凝膠電泳",
+        "B. 限制酶切",
+        "C. PCR",
+        "D. DNA連接"
+      ],
+      "answer": "C",
+      "explanation": "犯罪現場的DNA樣本往往非常微量，無法直接進行指紋分析。PCR技術可以快速擴增這些微量的DNA，使其達到可分析的量。",
+      "tags": [
+        "PCR",
+        "DNA指紋分析",
+        "法醫學應用"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_072",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "除了法醫學，DNA指紋分析還可以應用於以下哪個領域？",
+      "options": [
+        "A. 診斷遺傳病",
+        "B. 研究生物進化關係",
+        "C. 鑑定中藥材的真偽",
+        "D. 以上都是"
+      ],
+      "answer": "D",
+      "explanation": "DNA指紋分析應用廣泛，包括法醫學（身份鑑定）、親子鑑定、遺傳病診斷、物種鑑定（如中藥材）、進化生物學研究等。",
+      "tags": [
+        "DNA指紋分析",
+        "應用",
+        "多領域"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_073",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "世界上第一隻體細胞克隆哺乳動物「多莉羊」的誕生，證明了什麼？",
+      "options": [
+        "A. 動物可以進行有性生殖",
+        "B. 已分化的動物體細胞核仍具有全能性",
+        "C. 克隆技術可以完美複製所有生物",
+        "D. 胚胎分割技術已經成熟"
+      ],
+      "answer": "B",
+      "explanation": "多莉羊的誕生證明了已分化的體細胞（乳腺細胞）的細胞核仍然含有發育成完整個體的全部遺傳信息，即細胞核具有全能性。",
+      "tags": [
+        "克隆技術",
+        "多莉羊",
+        "細胞全能性"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_074",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "克隆多莉羊時，科學家將體細胞的細胞核移植到了什麼細胞中？",
+      "options": [
+        "A. 受精卵",
+        "B. 去核的卵細胞",
+        "C. 精子",
+        "D. 另一個體細胞"
+      ],
+      "answer": "B",
+      "explanation": "體細胞核移植技術是將供體體細胞的細胞核取出，植入一個已經去除自身細胞核的卵細胞（受體細胞）中，然後激活該細胞使其發育。",
+      "tags": [
+        "克隆技術",
+        "核移植",
+        "技術流程"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_075",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "克隆技術產生的後代，其遺傳物質主要來自誰？",
+      "options": [
+        "A. 提供細胞核的個體",
+        "B. 提供卵細胞的個體",
+        "C. 代孕母親",
+        "D. 以上三者各佔三分之一"
+      ],
+      "answer": "A",
+      "explanation": "克隆動物的細胞核DNA完全來自提供細胞核的個體，因此其核遺傳物質與供核個體幾乎完全相同。卵細胞提供細胞質（含少量線粒體DNA），代孕母親只提供營養和生長環境。",
+      "tags": [
+        "克隆技術",
+        "遺傳物質來源",
+        "核移植"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_076",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "GMO是以下哪個術語的縮寫？",
+      "options": [
+        "A. 基因改造生物",
+        "B. 基因組組織",
+        "C. 基因操作",
+        "D. 基因突變體"
+      ],
+      "answer": "A",
+      "explanation": "GMO是Genetically Modified Organism的縮寫，中文意為「基因改造生物」，指通過基因工程技術改變了其遺傳組成的生物。",
+      "tags": [
+        "GMO",
+        "基本概念",
+        "縮寫"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_077",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項是種植抗蟲轉基因作物（如Bt玉米）可能帶來的好處？",
+      "options": [
+        "A. 減少化學殺蟲劑的使用",
+        "B. 提高作物產量",
+        "C. 降低農民的勞動成本",
+        "D. 以上都是"
+      ],
+      "answer": "D",
+      "explanation": "抗蟲轉基因作物能自身產生殺蟲蛋白，從而減少農藥噴灑，降低成本和勞動強度，並因蟲害減少而提高產量。",
+      "tags": [
+        "GMO",
+        "轉基因作物",
+        "優點"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_078",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "關於轉基因食品的安全性，以下哪種說法是正確的？",
+      "options": [
+        "A. 所有轉基因食品都是不安全的",
+        "B. 所有轉基因食品都是絕對安全的",
+        "C. 上市的轉基因食品經過了嚴格的安全性評估，被認為是安全的",
+        "D. 轉基因食品的安全性無法評估"
+      ],
+      "answer": "C",
+      "explanation": "目前國際上對轉基因食品實行嚴格的安全評估和審批制度。經批准上市的轉基因食品被認為是與傳統食品同樣安全的。但科學界仍在持續關注其長期影響。",
+      "tags": [
+        "GMO",
+        "食品安全",
+        "倫理"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_079",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "一個關於GMO的倫理擔憂是「基因污染」，這指的是什麼？",
+      "options": [
+        "A. 轉基因生物的排泄物污染環境",
+        "B. 轉基因作物的基因通過花粉傳播到野生近緣種中",
+        "C. 轉基因食品導致人體基因突變",
+        "D. 生產GMO的工廠排放污染物"
+      ],
+      "answer": "B",
+      "explanation": "基因污染主要指轉基因作物的花粉通過風或昆蟲等媒介，傳播到非轉基因作物或野生近緣種中，導致外源基因在自然種群中擴散。",
+      "tags": [
+        "GMO",
+        "倫理",
+        "基因污染"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_080",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "克隆人類在倫理上存在巨大爭議，一個主要原因是？",
+      "options": [
+        "A. 技術不成熟，成功率低且存在健康風險",
+        "B. 可能侵犯人的尊嚴和獨特性",
+        "C. 可能被濫用，用於製造「定製嬰兒」",
+        "D. 以上都是"
+      ],
+      "answer": "D",
+      "explanation": "克隆人類面臨技術、安全和倫理等多重挑戰。技術不成熟導致流產、畸形率高；倫理上涉及人的尊嚴、身份認同以及可能被濫用於非治療性目的等問題。",
+      "tags": [
+        "克隆技術",
+        "倫理",
+        "人類克隆"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_081",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "限制性內切酶切割DNA後產生的末端類型有哪兩種？",
+      "options": [
+        "A. 5'端和3'端",
+        "B. 黏性末端和平末端",
+        "C. 編碼鏈和模板鏈",
+        "D. 有義鏈和反義鏈"
+      ],
+      "answer": "B",
+      "explanation": "限制性內切酶切割DNA後，根據切割方式不同，會產生兩種末端：一種是帶有單鏈突出部分的黏性末端，另一種是齊平的平末端。",
+      "tags": [
+        "重組DNA技術",
+        "限制性內切酶",
+        "末端類型"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_082",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在PCR的退火步驟中，溫度降低的目的是什麼？",
+      "options": [
+        "A. 使DNA聚合酶失活",
+        "B. 使引物與單鏈DNA模板結合",
+        "C. 使DNA雙鏈重新結合",
+        "D. 使新合成的DNA鏈釋放"
+      ],
+      "answer": "B",
+      "explanation": "退火步驟的溫度（通常50-65°C）低於變性溫度，高於延伸溫度，目的是讓引物能夠特異性地與單鏈DNA模板上的互補序列結合。",
+      "tags": [
+        "PCR",
+        "退火",
+        "引物結合"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_083",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "進行DNA指紋分析時，首先需要用限制性內切酶處理DNA樣本，其目的是什麼？",
+      "options": [
+        "A. 將DNA分子複製",
+        "B. 將DNA分子切割成不同長度的片段",
+        "C. 給DNA分子染色",
+        "D. 將DNA分子變性"
+      ],
+      "answer": "B",
+      "explanation": "限制性內切酶在特定的序列處切割DNA，由於個體間DNA序列的差異（如VNTR重複次數不同），切割後會產生長度各異的DNA片段，這些片段經電泳分離後形成指紋圖譜。",
+      "tags": [
+        "DNA指紋分析",
+        "限制性內切酶",
+        "片段化"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_084",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪種生物技術不涉及對生物遺傳物質的直接改造？",
+      "options": [
+        "A. 轉基因技術",
+        "B. 克隆技術",
+        "C. 基因敲除技術",
+        "D. 誘變育種"
+      ],
+      "answer": "B",
+      "explanation": "克隆技術（如體細胞核移植）不直接改變生物的基因，而是複製現有生物的基因組。轉基因和基因敲除直接修改了基因。誘變育種通過物理化學方法誘導基因突變，也涉及遺傳物質改變。",
+      "tags": [
+        "克隆技術",
+        "GMO",
+        "技術比較"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_085",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在基因工程中，如果要讓細菌生產人的某種蛋白，除了需要該蛋白的基因，還需要在基因前面加上什麼，以確保細菌能識別並開始轉錄？",
+      "options": [
+        "A. 終止子",
+        "B. 啟動子",
+        "C. 抗生素抗性基因",
+        "D. 複製起點"
+      ],
+      "answer": "B",
+      "explanation": "啟動子是RNA聚合酶識別和結合並開始轉錄的DNA序列。為了讓細菌的轉錄系統識別並表達人類基因，需要在其前面加上一個細菌可以識別的啟動子。",
+      "tags": [
+        "重組DNA技術",
+        "啟動子",
+        "基因表達"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_086",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "PCR技術能夠擴增特定的DNA片段，其特異性主要取決於什麼？",
+      "options": [
+        "A. DNA聚合酶的種類",
+        "B. 引物的序列",
+        "C. 反應體系的溫度",
+        "D. 模板DNA的長度"
+      ],
+      "answer": "B",
+      "explanation": "PCR的特異性由引物決定。只有與引物序列互補的DNA區域才會被擴增。設計特異性引物是PCR成功的關鍵。",
+      "tags": [
+        "PCR",
+        "特異性",
+        "引物"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_087",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在凝膠電泳中，DNA片段向哪個方向移動？",
+      "options": [
+        "A. 從正極向負極",
+        "B. 從負極向正極",
+        "C. 不移動",
+        "D. 隨機移動"
+      ],
+      "answer": "B",
+      "explanation": "DNA分子帶負電荷，在電場中會向正極移動。因此，在凝膠電泳中，DNA片段從負極（黑色電極）向正極（紅色電極）移動。",
+      "tags": [
+        "DNA指紋分析",
+        "凝膠電泳",
+        "電荷"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_088",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "關於克隆，以下哪種說法是錯誤的？",
+      "options": [
+        "A. 克隆動物與供核動物的核DNA完全相同",
+        "B. 克隆技術可以用於拯救瀕危動物",
+        "C. 克隆動物是完全相同的「複製品」，沒有任何差異",
+        "D. 克隆技術成功率通常較低"
+      ],
+      "answer": "C",
+      "explanation": "雖然克隆動物的核DNA與供體相同，但它們在線粒體DNA（來自卵細胞）、表觀遺傳修飾以及後天環境影響下，仍會存在差異，並非100%相同的複製品。",
+      "tags": [
+        "克隆技術",
+        "基本概念",
+        "誤區"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_089",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在基因工程中，使用病毒作為載體有什麼優點？",
+      "options": [
+        "A. 可以高效地將基因導入宿主細胞",
+        "B. 不會引起任何免疫反應",
+        "C. 可以攜帶任意大小的基因",
+        "D. 比質粒更安全"
+      ],
+      "answer": "A",
+      "explanation": "病毒在進化過程中形成了高效感染宿主細胞並將自身DNA/RNA注入細胞的能力，因此常被改造為基因載體，用於基因治療等領域。",
+      "tags": [
+        "重組DNA技術",
+        "病毒載體",
+        "優點"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_090",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "如果PCR反應只進行了一個循環，一個雙鏈DNA模板分子會變成幾個？",
+      "options": [
+        "A. 1個",
+        "B. 2個",
+        "C. 4個",
+        "D. 8個"
+      ],
+      "answer": "B",
+      "explanation": "PCR的一個循環包括變性、退火和延伸。經過一個循環，一個雙鏈DNA分子會變成兩個雙鏈DNA分子。經過n個循環，理論上可得到2^n個DNA分子。",
+      "tags": [
+        "PCR",
+        "循環",
+        "擴增效率"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_091",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項措施可以幫助降低轉基因作物基因污染的風險？",
+      "options": [
+        "A. 在轉基因作物周圍種植非轉基因作物作為隔離帶",
+        "B. 培育不育的轉基因作物",
+        "C. 對轉基因作物進行嚴格監管和標識",
+        "D. 以上都是"
+      ],
+      "answer": "D",
+      "explanation": "隔離帶可以減少花粉傳播；培育不育作物可以防止基因通過種子擴散；嚴格的監管和標識制度有助於追蹤和管理，這些都是降低基因污染風險的有效措施。",
+      "tags": [
+        "GMO",
+        "倫理",
+        "基因污染",
+        "風險管理"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_092",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "基因工程中，將目的基因與質粒連接後，導入細菌，並讓細菌大量生產目的蛋白的過程，屬於什麼水平的生物技術？",
+      "options": [
+        "A. 個體水平",
+        "B. 細胞水平",
+        "C. 分子水平",
+        "D. 器官水平"
+      ],
+      "answer": "C",
+      "explanation": "基因工程是在DNA分子水平上進行設計和操作的，通過對遺傳物質（DNA）的直接操作來改變生物的遺傳性狀，因此屬於分子水平的生物技術。",
+      "tags": [
+        "重組DNA技術",
+        "水平",
+        "分子水平"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_093",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在重組DNA技術中，為了確保質粒和目的基因能成功連接，通常使用同一種限制性內切酶進行切割，這樣會產生什麼末端？",
+      "options": [
+        "A. 平末端",
+        "B. 黏性末端",
+        "C. 鈍性末端",
+        "D. 隨機末端"
+      ],
+      "answer": "B",
+      "explanation": "同一種限制性內切酶切割DNA會產生互補的黏性末端（單鏈突出），這些末端可以通過鹼基互補配對原則連接，提高重組效率。",
+      "tags": [
+        "重組DNA技術",
+        "黏性末端",
+        "限制性內切酶"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_094",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "利用基因改造細菌生產人類胰島素，相比從動物胰臟提取，一個主要優勢是什麼？",
+      "options": [
+        "A. 生產成本更低",
+        "B. 產量更高",
+        "C. 產生的胰島素與人類自身胰島素完全相同，免疫反應更小",
+        "D. 以上都是"
+      ],
+      "answer": "D",
+      "explanation": "基因工程生產的胰島素純度高、產量大、成本低，且氨基酸序列與人類胰島素完全一致，大大降低了因使用動物胰島素可能引起的過敏或免疫反應。",
+      "tags": [
+        "重組DNA技術",
+        "基因工程應用",
+        "胰島素生產"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_095",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "DNA指紋圖譜中，不同位置的條帶代表什麼？",
+      "options": [
+        "A. 不同顏色的DNA",
+        "B. 不同長度的DNA片段",
+        "C. 不同種類的鹼基",
+        "D. 不同數量的染色體"
+      ],
+      "answer": "B",
+      "explanation": "在凝膠電泳中，DNA片段根據大小（長度）分離。較短的片段移動快，位於圖譜下方；較長的片段移動慢，位於圖譜上方。因此，不同位置的條帶代表不同長度的DNA片段。",
+      "tags": [
+        "DNA指紋分析",
+        "凝膠電泳",
+        "條帶解讀"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_096",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "DNA 指紋分析與 PCR",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在親子鑑定中，如果孩子的某條DNA帶既不在父親也不在母親的圖譜中出現，最可能的原因是？",
+      "options": [
+        "A. 孩子發生了基因突變",
+        "B. 孩子不是這對父母親生的",
+        "C. 實驗操作失誤",
+        "D. 以上都有可能"
+      ],
+      "answer": "D",
+      "explanation": "正常情況下，孩子的DNA條帶應全部來自父母。如果出現無法匹配的條帶，可能的原因包括：非親生、罕見的基因突變，或實驗過程中的污染或錯誤。",
+      "tags": [
+        "DNA指紋分析",
+        "親子鑑定",
+        "結果分析"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_097",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "治療性克隆與生殖性克隆的主要區別是什麼？",
+      "options": [
+        "A. 使用的技術不同",
+        "B. 克隆的目的不同：前者用於獲取幹細胞治療疾病，後者用於創造完整個體",
+        "C. 克隆的細胞類型不同",
+        "D. 克隆的效率不同"
+      ],
+      "answer": "B",
+      "explanation": "生殖性克隆的目的是創造一個與供體遺傳上相同的新個體（如克隆人）。治療性克隆的目的是通過克隆技術獲得胚胎幹細胞，用於研究和治療疾病，不將胚胎植入子宮發育成個體。",
+      "tags": [
+        "克隆技術",
+        "倫理",
+        "治療性克隆",
+        "生殖性克隆"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_098",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "克隆技術與 GMO 倫理",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項不是反對種植轉基因作物的常見論點？",
+      "options": [
+        "A. 可能導致超級雜草的出現",
+        "B. 可能影響生物多樣性",
+        "C. 可以增加作物產量，解決糧食問題",
+        "D. 長期食用對人體健康的影響未知"
+      ],
+      "answer": "C",
+      "explanation": "「增加作物產量，解決糧食問題」是支持轉基因作物的論點，而非反對的論點。其他選項如超級雜草、生物多樣性影響和未知健康風險都是常見的擔憂。",
+      "tags": [
+        "GMO",
+        "倫理",
+        "爭議"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_099",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在基因工程中，負責將兩個DNA片段連接起來的「分子膠水」是什麼？",
+      "options": [
+        "A. 限制性內切酶",
+        "B. 解旋酶",
+        "C. DNA連接酶",
+        "D. 逆轉錄酶"
+      ],
+      "answer": "C",
+      "explanation": "DNA連接酶能夠催化形成磷酸二酯鍵，將兩個DNA片段（如目標基因和載體）連接在一起，形成重組DNA分子。",
+      "tags": [
+        "重組DNA技術",
+        "DNA連接酶",
+        "工具酶"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_100",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "重組 DNA 技術",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在重組DNA技術中，用來在特定位置切割DNA分子的「分子剪刀」是什麼？",
+      "options": [
+        "A. DNA連接酶",
+        "B. 限制性內切酶",
+        "C. DNA聚合酶",
+        "D. 解旋酶"
+      ],
+      "answer": "B",
+      "explanation": "限制性內切酶能識別特定的DNA序列並在該位置切割，是基因工程中的關鍵工具。DNA連接酶用於連接DNA片段，DNA聚合酶用於複製DNA，解旋酶用於解開DNA雙螺旋。",
+      "tags": [
+        "重組DNA技術",
+        "限制性內切酶",
+        "工具酶"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_101",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "限制性內切酶EcoRI的識別序列為GAATTC，並在G與A之間切割。它切割DNA後會產生什麼樣的末端？",
+      "options": [
+        "A. 平末端",
+        "B. 5'突出黏性末端",
+        "C. 3'突出黏性末端",
+        "D. 隨機末端"
+      ],
+      "answer": "B",
+      "explanation": "EcoRI的切割方式為錯切，產生帶有5'突出單鏈的黏性末端 (AATTC)，這單鏈部分可與互補序列進行鹼基配對。",
+      "tags": [
+        "限制性內切酶",
+        "黏性末端",
+        "EcoRI"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_102",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "若使用產生平末端的限制酶來切割質粒和目的基因，在後續連接步驟中，與使用產生黏性末端的酶相比，會出現什麼情況？",
+      "options": [
+        "A. 連接效率較高",
+        "B. 連接效率較低",
+        "C. 連接效率相同",
+        "D. 無法進行連接"
+      ],
+      "answer": "B",
+      "explanation": "黏性末端可透過互補鹼基配對進行預定位，提高DNA連接酶的工作效率。平末端沒有突出單鏈，連接時無法預先配對，故效率較低。",
+      "tags": [
+        "限制性內切酶",
+        "平末端",
+        "黏性末端",
+        "連接效率"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_103",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在進行基因克隆時，為了防止質粒載體在連接步驟中自身環化，以下哪種方法最有效？",
+      "options": [
+        "A. 使用高濃度的DNA連接酶",
+        "B. 使用兩種不同的限制酶切割質粒，產生不互補的末端",
+        "C. 增加目的基因的長度",
+        "D. 降低反應溫度"
+      ],
+      "answer": "B",
+      "explanation": "使用兩種不同的限制酶切割質粒，會產生兩種不互補的黏性末端。這使得質粒無法自身環化，僅當兩端分別與目的基因的對應末端連接時才能重組，大大降低了自身環化的可能性。",
+      "tags": [
+        "限制酶",
+        "質粒",
+        "自身環化",
+        "雙酶切"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_104",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "一個線性質粒DNA分子，若其唯一的一個EcoRI限制位點位於抗生素抗性基因內。當用EcoRI切割此質粒，並與目的基因重組後，轉化細菌。以下哪項關於篩選的敘述是正確的？",
+      "options": [
+        "A. 所有轉化後的細菌都會對該抗生素產生抗性",
+        "B. 只有成功重組（插入目的基因）的細菌才會對該抗生素產生抗性",
+        "C. 只有成功重組（插入目的基因）的細菌會失去對該抗生素的抗性",
+        "D. 未重組的質粒會使細菌失去對該抗生素的抗性"
+      ],
+      "answer": "C",
+      "explanation": "由於限制位點位於抗性基因內，插入目的基因會破壞該基因的功能（插入失活）。因此，成功重組的細菌會失去該抗生素的抗性；而自身環化的質粒則保留完整的抗性基因，細菌仍具抗性。",
+      "tags": [
+        "限制酶",
+        "質粒",
+        "插入失活",
+        "篩選"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_105",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "一個理想質粒載體應具備以下哪些特徵？\n(1) 具有多個獨特的限制酶切位點\n(2) 具有篩選標記（如抗生素抗性基因）\n(3) 能夠獨立複製\n(4) 具有較大的分子量",
+      "options": [
+        "A. 只有 (1) 和 (2)",
+        "B. 只有 (1)、(2) 和 (3)",
+        "C. 只有 (2)、(3) 和 (4)",
+        "D. (1)、(2)、(3) 和 (4)"
+      ],
+      "answer": "B",
+      "explanation": "理想載體需有(1)多個限制位點便於插入基因、(2)篩選標記以鑑定重組子、(3)複製起點以複製。而(4)較大的分子量並非必要，相反，小分子量的質粒更易操作和轉化。",
+      "tags": [
+        "質粒",
+        "載體",
+        "特徵"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_106",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "有一質粒，其多克隆位點（MCS）位於lacZ基因內。當成功將目的基因插入MCS時，會破壞lacZ基因。在含有X-gal的培養基上，成功重組的細菌菌落會呈現什麼顏色？",
+      "options": [
+        "A. 藍色",
+        "B. 白色",
+        "C. 紅色",
+        "D. 綠色"
+      ],
+      "answer": "B",
+      "explanation": "lacZ基因編碼β-半乳糖苷酶，能分解X-gal產生藍色產物。當目的基因插入破壞lacZ基因後，β-半乳糖苷酶無法產生，菌落呈白色，此即藍白篩選。",
+      "tags": [
+        "質粒",
+        "lacZ",
+        "藍白篩選",
+        "篩選標記"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_107",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "利用限制酶進行基因克隆時，若使用的限制酶會產生黏性末端，連接目的基因與載體時，應使用哪種酶？",
+      "options": [
+        "A. 限制性內切酶",
+        "B. DNA聚合酶",
+        "C. DNA連接酶",
+        "D. 逆轉錄酶"
+      ],
+      "answer": "C",
+      "explanation": "DNA連接酶的功能是催化形成磷酸二酯鍵，將DNA片段（載體與目的基因）的末端連接起來，形成重組DNA分子。",
+      "tags": [
+        "限制酶",
+        "DNA連接酶",
+        "連接",
+        "重組"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_108",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "某一限制酶在質粒上有兩個切割位點。若用此酶完全消化該質粒，在凝膠電泳上會出現多少條帶？",
+      "options": [
+        "A. 1條",
+        "B. 2條",
+        "C. 3條",
+        "D. 4條"
+      ],
+      "answer": "B",
+      "explanation": "限制酶在DNA分子上有一個切割位點，會使之線性化，產生一個片段。有兩個切割位點則會將環狀DNA切成兩個線性片段，因此在電泳上會出現兩條帶。",
+      "tags": [
+        "限制酶",
+        "電泳",
+        "酶切圖譜"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_109",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "比較不同限制酶對同一種質粒的切割結果時，若使用凝膠電泳進行分析，DNA片段移動速度主要取決於什麼？",
+      "options": [
+        "A. DNA片段的顏色",
+        "B. DNA片段的鹼基序列",
+        "C. DNA片段的長度",
+        "D. DNA片段的來源"
+      ],
+      "answer": "C",
+      "explanation": "在凝膠電泳中，DNA片段根據其大小（即長度或鹼基對數）進行分離。較短的片段在凝膠中移動較快，較長的片段移動較慢。",
+      "tags": [
+        "凝膠電泳",
+        "DNA長度",
+        "移動速度"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_110",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "下列哪項不是質粒作為載體進行基因轉殖的步驟？",
+      "options": [
+        "A. 用限制酶切割質粒和目的基因",
+        "B. 用DNA連接酶連接目的基因和質粒",
+        "C. 將重組質粒放入PCR儀器中擴增",
+        "D. 將重組質粒導入宿主細胞"
+      ],
+      "answer": "C",
+      "explanation": "將重組質粒放入PCR儀器是為了擴增特定的DNA片段，這不是基因克隆的標準步驟。標準步驟是：酶切、連接、轉化、篩選。PCR可用於獲取或檢測目的基因，但不是將重組質粒導入細胞的必要步驟。",
+      "tags": [
+        "質粒",
+        "基因克隆",
+        "步驟"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_111",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "PCR反應中，引物的作用是什麼？",
+      "options": [
+        "A. 作為合成新DNA鏈的起點",
+        "B. 負責合成新的DNA鏈",
+        "C. 提供合成DNA所需的能量",
+        "D. 防止DNA聚合酶變性"
+      ],
+      "answer": "A",
+      "explanation": "引物是一段與目標DNA序列互補的短核苷酸序列。在PCR退火階段，引物與單鏈模板DNA結合，為DNA聚合酶提供自由的3'-OH端，作為DNA合成的起點。",
+      "tags": [
+        "PCR",
+        "引物",
+        "功能"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_112",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在PCR的延伸階段，DNA聚合酶的工作溫度最接近下列哪一項？",
+      "options": [
+        "A. 4°C",
+        "B. 55°C",
+        "C. 72°C",
+        "D. 94°C"
+      ],
+      "answer": "C",
+      "explanation": "延伸階段通常在72°C進行，這是耐高溫DNA聚合酶（如Taq酶）的最適反應溫度。在此溫度下，聚合酶以最高效率將游離的脫氧核苷酸（dNTPs）添加到引物末端。",
+      "tags": [
+        "PCR",
+        "延伸",
+        "Taq酶",
+        "溫度"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_113",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "PCR技術得以實現反覆進行變性、退火和延伸循環的關鍵是什麼？",
+      "options": [
+        "A. 使用高純度的DNA模板",
+        "B. 使用耐高溫的DNA聚合酶",
+        "C. 使用高濃度的引物",
+        "D. 使用快速的溫度循環儀"
+      ],
+      "answer": "B",
+      "explanation": "PCR需要在變性階段將溫度升至接近100°C。普通DNA聚合酶在此溫度下會迅速失活。耐高溫的DNA聚合酶（如Taq聚合酶）能夠在該高溫下保持活性，從而使反應可以循環進行。",
+      "tags": [
+        "PCR",
+        "耐高溫DNA聚合酶",
+        "Taq",
+        "關鍵"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_114",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "若PCR反應的退火溫度設定過高，可能導致什麼結果？",
+      "options": [
+        "A. 引物無法與模板結合，無產物生成",
+        "B. 產物量增加",
+        "C. 非特異性產物增加",
+        "D. DNA聚合酶失活"
+      ],
+      "answer": "A",
+      "explanation": "退火溫度過高時，引物與模板之間形成的氫鍵不穩定，導致引物無法特異性地結合在目標序列上，從而無法啟動DNA複製，最終導致PCR擴增失敗或產量極低。",
+      "tags": [
+        "PCR",
+        "退火溫度",
+        "引物結合",
+        "特異性"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_115",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在進行凝膠電泳時，DNA樣品通常會加入以下哪種物質，以在電場中攜帶DNA並可視化其移動？",
+      "options": [
+        "A. 無水乙醇",
+        "B. 瓊脂糖",
+        "C. 上樣緩衝液（含染料）",
+        "D. 限制酶"
+      ],
+      "answer": "C",
+      "explanation": "上樣緩衝液通常含有兩種成分：一是高密度物質（如甘油），使樣品下沉至加樣孔中；二是指示劑染料（如溴酚藍），在電場中移動，用以追蹤DNA的移動距離。",
+      "tags": [
+        "凝膠電泳",
+        "上樣緩衝液",
+        "指示劑"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_116",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "下圖為一個PCR產物經凝膠電泳後的示意圖。泳道M為DNA標記（ladder），泳道1為樣品。根據標記，樣品中PCR產物的大小約為多少bp？\n\nM  1\n|  |\n2000 -\n1500 -\n1000 -\n 750 -\n 500 -",
+      "options": [
+        "A. 500 bp",
+        "B. 750 bp",
+        "C. 1000 bp",
+        "D. 1500 bp"
+      ],
+      "answer": "C",
+      "explanation": "由圖可知，樣品的條帶位於1000 bp標記附近，因此其大小約為1000個鹼基對。DSE中一般要求根據DNA標記的位置來目測估算產物大小。",
+      "tags": [
+        "凝膠電泳",
+        "DNA標記",
+        "產物大小",
+        "圖譜解讀"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_117",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在PCR反應中，哪一個階段會使雙鏈DNA模板解開成單鏈，以便引物結合？",
+      "options": [
+        "A. 變性階段",
+        "B. 退火階段",
+        "C. 延伸階段",
+        "D. 初始化階段"
+      ],
+      "answer": "A",
+      "explanation": "變性階段的反應溫度約為94-98°C，足夠破壞DNA雙螺旋之間的氫鍵，使兩條互補鏈分離，形成單鏈DNA模板，為接下來的引物退火做準備。",
+      "tags": [
+        "PCR",
+        "變性",
+        "DNA解鏈"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_118",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "利用PCR技術檢測基因改造（GM）食品時，需設計特異性引物。引物序列應來自於以下哪一部分？",
+      "options": [
+        "A. 食品中任何植物的通用基因",
+        "B. 轉基因元件（如CaMV 35S啟動子或NOS終止子）",
+        "C. 食品包裝上的條形碼序列",
+        "D. 細菌核糖體RNA基因"
+      ],
+      "answer": "B",
+      "explanation": "檢測GM食品的PCR通常針對常見的轉基因調控元件，如花椰菜嵌紋病毒（CaMV）35S啟動子或農桿菌（Agrobacterium）的NOS終止子。這些序列並非植物自身所有，因此其存在與否可用於判斷該食品是否為GM產品。",
+      "tags": [
+        "PCR",
+        "GM檢測",
+        "引物設計"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_119",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在進行DNA指紋分析時，使用限制酶處理DNA樣本後，通常需要透過哪種技術來分離不同大小的片段？",
+      "options": [
+        "A. 聚合酶鏈式反應 (PCR)",
+        "B. 凝膠電泳",
+        "C. DNA測序",
+        "D. 離心分離"
+      ],
+      "answer": "B",
+      "explanation": "凝膠電泳是根據DNA片段大小進行分離的標準技術。酶切後的DNA樣本在凝膠中遷移，小片段移得快，大片段移得慢，從而形成特定的條帶圖譜，即DNA指紋。",
+      "tags": [
+        "DNA指紋",
+        "凝膠電泳",
+        "限制酶",
+        "片段分離"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_120",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在一次親子鑑定的DNA指紋分析中，孩子的DNA指紋圖譜中有一條帶，既不在母親的圖譜中出現，也不在潛在父親的圖譜中出現。下列哪項解釋最可能？",
+      "options": [
+        "A. 實驗過程中發生污染",
+        "B. 孩子發生了體細胞突變",
+        "C. 孩子遺傳了來自祖父母的重組染色體",
+        "D. 該帶是背景噪音，可以忽略"
+      ],
+      "answer": "A",
+      "explanation": "孩子的DNA必須完全來自父母。如出現母親和潛在父親均沒有的條帶，最可能的技術性原因是樣本被污染。此外，也可能是潛在父親並非生父，即他與孩子無關。體細胞突變一般不會遺傳。",
+      "tags": [
+        "DNA指紋",
+        "親子鑑定",
+        "圖譜分析"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_121",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在PCR反應中，若一個雙鏈DNA模板經過3個循環的擴增，理論上會產生多少個雙鏈DNA分子？",
+      "options": [
+        "A. 4",
+        "B. 6",
+        "C. 8",
+        "D. 16"
+      ],
+      "answer": "C",
+      "explanation": "PCR的DNA複製是指數式增長。公式為 2^n，其中n為循環次數。經過3個循環，理論上可產生 2^3 = 8 個DNA分子。",
+      "tags": [
+        "PCR",
+        "指數擴增",
+        "計算"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_122",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "若要設計一對PCR引物來擴增一段長度為500 bp的DNA片段，引物的長度通常應設計為多少個核苷酸？",
+      "options": [
+        "A. 5-10",
+        "B. 18-25",
+        "C. 50-100",
+        "D. 500"
+      ],
+      "answer": "B",
+      "explanation": "PCR引物的長度通常在18-25個核苷酸之間。太短的引物（如5-10個核苷酸）會導致非特異性結合；太長的引物則會提高退火溫度和合成成本，且可能形成二級結構。",
+      "tags": [
+        "PCR",
+        "引物設計",
+        "長度"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_123",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "轉基因風險評估",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在評估釋放基因改造（GM）作物到環境的風險時，以下哪項是對生態系統潛在影響的主要考量？",
+      "options": [
+        "A. GM作物的營養成分是否高於傳統作物",
+        "B. GM作物的基因是否會通過花粉傳播到野生近緣種",
+        "C. GM作物的果實是否會變得更甜",
+        "D. GM作物的種子是否需要特殊儲存條件"
+      ],
+      "answer": "B",
+      "explanation": "基因飄移是GM作物主要的環境風險之一。通過花粉傳播，外源抗性基因（如抗蟲、抗除草劑基因）可能轉移到野生近緣種中，使其獲得選擇優勢，形成抗性雜草或破壞自然生態平衡。",
+      "tags": [
+        "GMO",
+        "風險評估",
+        "基因飄移"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_124",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "轉基因風險評估",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "種植抗蟲Bt玉米的主要關注點之一是其對非目標生物（如蝴蝶、蜜蜂）的影響。以下哪項措施最能有效評估此風險？",
+      "options": [
+        "A. 在實驗室中將Bt玉米花粉餵食給毛蟲",
+        "B. 僅監測Bt玉米田內的農作物產量",
+        "C. 全面禁止種植所有Bt作物",
+        "D. 只評估Bt玉米對目標害蟲的效果"
+      ],
+      "answer": "A",
+      "explanation": "實驗室餵食研究是風險評估的常用步驟。透過將非目標生物（如帝王斑蝶的毛蟲）暴露在不同濃度的Bt花粉下，觀察其存活率、生長發育等指標，可以科學地評估Bt作物對牠們的潛在毒性。",
+      "tags": [
+        "GMO",
+        "Bt玉米",
+        "風險評估",
+        "非目標生物"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_125",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "轉基因風險評估",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在討論基因改造（GM）食品的安全性時，以下哪種情況最令人擔憂？",
+      "options": [
+        "A. GM食品的蛋白質含量比傳統食品高",
+        "B. GM食品引入了新的過敏原或毒素",
+        "C. GM食品的口感比傳統食品好",
+        "D. GM食品的保質期比傳統食品長"
+      ],
+      "answer": "B",
+      "explanation": "引入外源基因可能導致宿主生物表達新的蛋白質。如果這些蛋白質是已知的過敏原或會產生有毒物質，對部分消費者（尤其是過敏體質者）可能構成健康風險。因此，進行過敏原和毒性測試是GM食品安全評估的核心。",
+      "tags": [
+        "GMO",
+        "食品安全",
+        "過敏原",
+        "風險評估"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_126",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "轉基因風險評估",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "為了降低基因改造作物與野生近緣種雜交的風險，以下哪項管理措施最為有效？",
+      "options": [
+        "A. 在GM作物周圍種植高大的樹木作為屏障",
+        "B. 大量使用殺蟲劑消滅傳粉昆蟲",
+        "C. 建立隔離帶（緩衝區），種植非GM作物",
+        "D. 在GM作物成熟前全部收穫"
+      ],
+      "answer": "C",
+      "explanation": "隔離帶是減緩基因飄移的有效方法。在GM作物田與野生近緣種棲息地或其他非GM作物之間，種植一段距離的非GM作物，可以大幅降低GM花粉透過風媒或蟲媒傳播到目標區域外的機率。",
+      "tags": [
+        "GMO",
+        "基因飄移",
+        "管理措施",
+        "隔離帶"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_127",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "轉基因風險評估",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "關於「標籤制度」在基因改造（GM）食品管理中的角色，以下哪項描述最準確？",
+      "options": [
+        "A. 標籤制度用於證明GM食品比非GM食品更安全",
+        "B. 標籤制度只是為了增加食品的銷售價格",
+        "C. 標籤制度賦予消費者知情權，並為選擇提供依據",
+        "D. 標籤制度僅適用於動物飼料，不適用於人類食品"
+      ],
+      "answer": "C",
+      "explanation": "GM食品標籤制度的核心是保障消費者的知情權和選擇權。它強制或自願地說明食品是否含有GM成分，讓消費者可以根據個人信仰、健康考量或對環境的態度，自主決定是否購買該產品。",
+      "tags": [
+        "GMO",
+        "食品標籤",
+        "消費者權利",
+        "風險管理"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_128",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "轉基因風險評估",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在長期大規模種植抗除草劑轉基因作物的情況下，最可能出現的生態風險是什麼？",
+      "options": [
+        "A. 土壤肥力永久性下降",
+        "B. 目標害蟲對Bt毒素產生抗性",
+        "C. 產生對該除草劑具有抗性的超級雜草",
+        "D. 作物的產量顯著下降"
+      ],
+      "answer": "C",
+      "explanation": "大規模、連續使用同一種除草劑，會對雜草族群施加強大的選擇壓力。部分耐藥性較強的雜草被篩選出來，並可能與抗除草劑GM作物的基因（透過雜交）疊加，最終演化出難以控制的「超級雜草」。害蟲抗性主要針對抗蟲（Bt）作物。",
+      "tags": [
+        "GMO",
+        "抗除草劑",
+        "超級雜草",
+        "生態風險"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_129",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "轉基因風險評估",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "為了防止轉基因鮭魚逃逸後對野生鮭魚的遺傳結構造成影響，科學家通常採取以下哪項生物安全措施？",
+      "options": [
+        "A. 將GM鮭魚養殖在離海岸很遠的地方",
+        "B. 培育三倍體（不育）的GM鮭魚",
+        "C. 給所有GM鮭魚注射抗生素",
+        "D. 將GM鮭魚的體型培育到非常巨大"
+      ],
+      "answer": "B",
+      "tags": [
+        "GMO",
+        "生物安全",
+        "三倍體",
+        "不育"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_130",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "轉基因風險評估",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "評估一種新的基因改造（GM）微生物釋放到環境中的風險時，以下哪項是最重要的初步評估？",
+      "options": [
+        "A. 評估其產品的市場價格",
+        "B. 評估其在環境中的存活能力和競爭力",
+        "C. 評估其培養基的成本",
+        "D. 評估其蛋白質的營養價值"
+      ],
+      "answer": "B",
+      "explanation": "環境釋放風險評估的核心是預測GM生物在自然環境中的行為。如果它極易死亡，則風險較低；但如果它生命力頑強、競爭力強於本土微生物，則可能破壞原有生態系統的穩定性。",
+      "tags": [
+        "GMO",
+        "微生物",
+        "環境風險",
+        "競爭力"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_131",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "有一個環狀質粒，若使用能夠產生黏性末端的限制性內切酶BamHI（識別序列GGATCC）進行完全切割。若該質粒上有一個BamHI位點，切割後會產生什麼結果？",
+      "options": [
+        "A. 兩個線性DNA片段",
+        "B. 一個線性化的質粒",
+        "C. 三個線性DNA片段",
+        "D. 質粒保持環狀"
+      ],
+      "answer": "B",
+      "explanation": "在一個環狀DNA分子上，若只有一個限制酶切割位點，該限制酶只會切開一條鍵（形成切口）。經過一次完全切割，環狀DNA會變成一個線性化DNA分子，而不是斷成兩段。",
+      "tags": [
+        "限制酶",
+        "質粒",
+        "線性化",
+        "酶切"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_132",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "將含有氨苄青黴素抗性基因（Ampʳ）的質粒轉化大腸桿菌後，將細菌塗布在含有氨苄青黴素的培養基上。生長出來的菌落，它們的質粒最有可能的狀態是？",
+      "options": [
+        "A. 全部具有完整的Ampʳ基因",
+        "B. 全部都不具有Ampʳ基因",
+        "C. 可能含有重組或未重組的質粒，但都含有Ampʳ基因",
+        "D. 只能含有未重組的質粒"
+      ],
+      "answer": "C",
+      "explanation": "只有在含有Ampʳ基因的質粒導入細菌後，該細菌才能在含氨苄青黴素的培養基上存活。因此，所有能生長的菌落都已成功（轉化）並攝取了質粒，無論該質粒是未重組的（自身環化）還是重組了目的基因的（插入失活），只要其Ampʳ基因未被破壞，細菌就能存活。",
+      "tags": [
+        "質粒",
+        "轉化",
+        "篩選",
+        "抗生素抗性"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_133",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "下表顯示對某混合物進行PCR及電泳後的結果。\n\n泳道 | 內容\n----- | -----\n1 | 空載\n2 | DNA 標記（100-1000 bp）\n3 | 樣本A\n4 | 樣本B\n\n若DNA標記的條帶分布均勻，泳道3出現一條約250 bp的明亮條帶，泳道4沒有任何條帶。以下哪項推論最合理？",
+      "options": [
+        "A. 樣本A的目標基因不存在於樣本B中",
+        "B. 樣本A含有比樣本B更多的蛋白質",
+        "C. 樣本A的DNA濃度太高，導致無結果",
+        "D. 樣本B的DNA模板含量是樣本A的兩倍"
+      ],
+      "answer": "A",
+      "explanation": "PCR檢測的目標是特定的基因片段。樣本A出現條帶，表示其中含有目標基因；樣本B無條帶，表示其不含有該目標基因，或該基因濃度極低（低於檢測限）。此結果常用於鑑別GM食品或病原體。",
+      "tags": [
+        "PCR",
+        "凝膠電泳",
+        "結果分析"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_134",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "一質粒載體上有兩個不同的抗生素抗性基因：Tetʳ（四環素抗性）和Ampʳ（氨苄青黴素抗性）。若將目的基因插入Tetʳ基因內並進行轉化。在先用含氨苄青黴素的培養基篩選，然後再將存活的菌落影印（replica plating）到含四環素的培養基上。具有重組質粒的菌落應具有何種特徵？",
+      "options": [
+        "A. 在兩種培養基上都能生長",
+        "B. 僅在含氨苄青黴素的培養基上生長，不能在含四環素培養基上生長",
+        "C. 僅在含四環素的培養基上生長，不能在含氨苄青黴素培養基上生長",
+        "D. 在兩種培養基上都不能生長"
+      ],
+      "answer": "B",
+      "explanation": "由於目的基因插入破壞了Tetʳ基因（插入失活），重組質粒不再賦予細菌四環素抗性。但Ampʳ基因完好，因此細菌對氨苄青黴素有抗性，能被第一輪篩選出，但在對第二輪的影印培養（含四環素）中無法生長。",
+      "tags": [
+        "質粒",
+        "插入失活",
+        "篩選",
+        "雙抗生素"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_135",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在一個PCR反應中，除了模板DNA、引物、DNA聚合酶和緩衝液外，還需要加以下哪種物質以合成新DNA鏈？",
+      "options": [
+        "A. 核糖核苷三磷酸 (rNTPs)",
+        "B. 脫氧核糖核苷三磷酸 (dNTPs)",
+        "C. 限制性內切酶",
+        "D. ATP"
+      ],
+      "answer": "B",
+      "explanation": "dNTPs（即dATP, dCTP, dGTP, dTTP）是DNA合成的原料。DNA聚合酶將這些游離的脫氧核苷酸依模板鏈的順序，逐個添加到引物的3'末端，形成新的DNA鏈。",
+      "tags": [
+        "PCR",
+        "dNTPs",
+        "原料"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_136",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "若一個質粒載體上同時含有lacZ基因和Ampʳ基因。將目的基因插入lacZ基因中，轉化後的細菌在含有X-gal和氨苄青黴素的培養基上培養。白色菌落中的細菌含有何種質粒？",
+      "options": [
+        "A. 沒有成功轉入任何質粒",
+        "B. 含有自身環化的空質粒",
+        "C. 含有重組了目的基因的質粒",
+        "D. 含有失去Ampʳ基因的質粒"
+      ],
+      "answer": "C",
+      "explanation": "白色菌落表示lacZ基因已被破壞（β-半乳糖苷酶無法產生），無法水解X-gal。由於培養基中含有氨苄青黴素，細菌必須帶有Ampʳ基因才能存活。因此，白色菌落中必含有Ampʳ基因但lacZ被破壞的重組質粒。",
+      "tags": [
+        "藍白篩選",
+        "lacZ",
+        "重組子",
+        "篩選"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_137",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "轉基因風險評估",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "以下哪項不屬於基因改造（GM）作物相對於傳統育種的潛在倫理或安全問題？",
+      "options": [
+        "A. 對生態系統生物多樣性的影響",
+        "B. 跨越物種界線進行基因轉移是否「不自然」",
+        "C. 可以解決全球糧食短缺問題",
+        "D. 長期食用對人類健康的未知性"
+      ],
+      "answer": "C",
+      "explanation": "選項C（解決糧食短缺）是支持發展GM作物的論點，屬於潛在好處，而非倫理或安全問題。其他選項（生態影響、違反自然、健康風險）皆是GM技術常被討論的倫理和安全性爭議焦點。",
+      "tags": [
+        "GMO",
+        "倫理",
+        "風險",
+        "優點"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_138",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "若想將一個大小為1.5 kbp的目的基因插入一個大小為4 kbp的質粒中。使用限制酶處理後，成功連接重組的DNA分子總長度應為多少？",
+      "options": [
+        "A. 2.5 kbp",
+        "B. 4 kbp",
+        "C. 5.5 kbp",
+        "D. 6 kbp"
+      ],
+      "answer": "C",
+      "explanation": "重組DNA分子的總長度是質粒骨架與插入的目的基因兩者長度之和。因此，總長度 = 4 kbp (質粒) + 1.5 kbp (目的基因) = 5.5 kbp。",
+      "tags": [
+        "重組DNA",
+        "長度計算",
+        "質粒"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_139",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "下列哪項不是PCR反應結束後，對產物進行驗證的常用方法？",
+      "options": [
+        "A. 進行凝膠電泳，觀察是否出現預期大小的條帶",
+        "B. 將產物進行DNA測序，確認序列是否正確",
+        "C. 將產物加入抗生素中，觀察抗性",
+        "D. 使用限制酶切割產物，檢查片段長度是否吻合"
+      ],
+      "answer": "C",
+      "explanation": "選項C（將產物加入抗生素）不適用，因為PCR產物是體外擴增的DNA片段，不具備生物活性，無法在培養基中生長或表現抗性。驗證PCR產物最常見的方法是電泳（檢查大小）和測序（檢查序列），也可用限制酶切圖譜進行間接驗證。",
+      "tags": [
+        "PCR",
+        "產物驗證",
+        "凝膠電泳"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_140",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在疾病（如COVID-19）的核酸檢測中，經常使用RT-PCR技術。這項技術的核心是將病毒的RNA首先轉化為什麼？",
+      "options": [
+        "A. 蛋白質",
+        "B. 脂質",
+        "C. 互補DNA (cDNA)",
+        "D. 核糖體RNA (rRNA)"
+      ],
+      "answer": "C",
+      "explanation": "PCR只能以DNA為模板進行擴增。由於許多病毒（如SARS-CoV-2、流感病毒）的遺傳物質是RNA，因此需要先用逆轉錄酶（Reverse Transcriptase, RT）將病毒的RNA模板轉錄成互補DNA（cDNA），然後再以cDNA為模板進行傳統的PCR擴增，從而達到檢測的目的。",
+      "tags": [
+        "PCR",
+        "RT-PCR",
+        "cDNA",
+        "逆轉錄"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_141",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在進行限制酶切割反應時，為了確保質粒被完全切割，反應中通常會加入過量的哪種物質？",
+      "options": [
+        "A. DNA連接酶",
+        "B. 限制性內切酶",
+        "C. 引物",
+        "D. 載體蛋白"
+      ],
+      "answer": "B",
+      "explanation": "為了確保所有DNA分子都能在預定位置被切割（完全酶切），避免部分切割導致後續實驗失敗（如連接效率低），實驗中通常會加入過量的限制性內切酶，並延長反應時間。",
+      "tags": [
+        "限制酶",
+        "完全酶切",
+        "實驗操作"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_142",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "轉基因風險評估",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "關於「基因污染」（gene pollution）的概念，以下哪項描述最準確？",
+      "options": [
+        "A. 指GM食品的營養成分流失",
+        "B. 指轉基因的DNA透過花粉或種子擴散到非目標物種中",
+        "C. 指實驗室中的化學試劑污染了DNA樣本",
+        "D. 指GM作物田被農藥污染"
+      ],
+      "answer": "B",
+      "explanation": "基因污染特指經過人工改造的基因（轉基因）意外地、不可控地流入到自然界的野生族群或其他非轉基因品種中。這通常通過花粉傳播（風媒或蟲媒）或種子擴散實現。",
+      "tags": [
+        "GMO",
+        "基因污染",
+        "定義"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_143",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "一個線性DNA分子（5 kbp）上有一個EcoRI限制位點。若用EcoRI完全切割，之後再進行凝膠電泳，預期會觀察到多少條帶？",
+      "options": [
+        "A. 1條",
+        "B. 2條",
+        "C. 3條",
+        "D. 4條"
+      ],
+      "answer": "B",
+      "explanation": "一個線性DNA分子上有一個限制位點，意味著該酶會將此線性分子在該位點處切成兩段。因此，酶切後的產物為兩個不同長度的線性片段，電泳後顯示2條帶。",
+      "tags": [
+        "限制酶",
+        "線性DNA",
+        "酶切",
+        "電泳"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_144",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在DNA指紋分析中，為何親生父母與孩子的DNA指紋圖譜具有極高的相似性？",
+      "options": [
+        "A. 因為他們居住在同一個家庭中",
+        "B. 因為孩子的染色體是由父母雙方染色體隨機組合而成",
+        "C. 因為他們的DNA序列完全一樣",
+        "D. 因為他們食用相同類型的食物"
+      ],
+      "answer": "B",
+      "explanation": "子女的核DNA一半來自父親的精子，一半來自母親的卵子。因此，其DNA指紋圖譜中，每條帶理論上都能在父親或母親的圖譜中找到對應的來源。這種遺傳關係是親子鑑定的生物學基礎。",
+      "tags": [
+        "DNA指紋",
+        "親子鑑定",
+        "遺傳學",
+        "原理"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_145",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "轉基因風險評估",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在評估轉基因微生物（GMM）的風險時，以下哪項是對於「水平基因轉移」（horizontal gene transfer）的主要擔憂？",
+      "options": [
+        "A. GMM的基因轉移到其他非目標微生物（如腸道細菌）",
+        "B. GMM的基因只在自身後代間垂直傳遞",
+        "C. GMM會大量死亡",
+        "D. GMM的蛋白質會被人體吸收"
+      ],
+      "answer": "A",
+      "explanation": "水平基因轉移是指基因在不同生物體（甚至是無親緣關係的物種）之間的傳遞。對GMM的擔憂在於，其攜帶的抗性標記基因或其他外源基因，可能透過此方式轉移到人體腸道菌群或環境中的其他細菌，從而產生新的抗藥性細菌。",
+      "tags": [
+        "GMO",
+        "水平基因轉移",
+        "風險",
+        "抗生素抗性"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_146",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "進行一個標準的PCR反應，在設定溫度程序時，變性階段的高溫約為94°C，目的是？",
+      "options": [
+        "A. 使DNA聚合酶發揮最大活性",
+        "B. 使引物與模板結合",
+        "C. 使雙鏈DNA解旋成單鏈",
+        "D. 使溶液中所有化學物質溶解"
+      ],
+      "answer": "C",
+      "explanation": "在變性階段，溫度升至約94-98°C，提供足夠的能量破壞DNA雙螺旋中互補鹼基對之間形成的氫鍵。這使得兩條緊密纏繞的DNA鏈分離，成為單鏈DNA模板，為下一步引物結合創造條件。",
+      "tags": [
+        "PCR",
+        "變性",
+        "解鏈",
+        "溫度"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_147",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在基因工程操作中，為確保重組DNA成功，下列哪項操作順序是正確的？",
+      "options": [
+        "A. 連接 → 酶切 → 轉化",
+        "B. 酶切 → 連接 → 轉化",
+        "C. 轉化 → 酶切 → 連接",
+        "D. 酶切 → 轉化 → 連接"
+      ],
+      "answer": "B",
+      "explanation": "標準的基因克隆順序是：①用限制酶分別切割載體（質粒）和目的基因，產生互補末端；②用DNA連接酶將它們連接起來，形成重組DNA；③將重組DNA導入宿主細胞（轉化），再進行篩選和表達。",
+      "tags": [
+        "重組DNA",
+        "步驟",
+        "排序"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_148",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "限制酶與質粒載體",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "一質粒分子量為 3.2 kb，插入一個 0.8 kb 的目的基因後形成重組質粒。若用限制酶將此重組質粒切成兩段，長度分別為 2.0 kb 和 2.0 kb。原因可能是？",
+      "options": [
+        "A. 限制酶在質粒和目的基因上各有一個切點",
+        "B. 限制酶在重組質粒上有四個對稱的切點",
+        "C. 插入失敗，質粒被切成兩段相同的空載體",
+        "D. 重組質粒的總長度變為 4.0 kb，被一個酶切成兩個2.0 kb的片段"
+      ],
+      "answer": "D",
+      "explanation": "重組質粒總長 = 3.2 kb (載體) + 0.8 kb (插入片段) = 4.0 kb。若被酶切後得到兩個長度均為 2.0 kb 的片段，表示這兩個切點（或該酶在DNA上只有一個對稱中心）的位置對稱，將整個分子平分為二。這是完全可能的。",
+      "tags": [
+        "重組質粒",
+        "酶切分析",
+        "大小計算"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_149",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "電泳圖譜解讀與PCR步驟",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "一位法醫對犯罪現場發現的一根頭髮進行DNA指紋分析。他首先需要從頭髮樣本中提取DNA，然後先進行以下哪項步驟？",
+      "options": [
+        "A. 直接用顯微鏡觀察",
+        "B. 使用PCR技術擴增DNA",
+        "C. 將頭髮浸泡在酒精中",
+        "D. 將頭髮與限制酶混合"
+      ],
+      "answer": "B",
+      "explanation": "犯罪現場的DNA樣本通常極微量（< 1 ng），無法直接進行限制酶切割和電泳分析。因此，法醫必須首選利用PCR（聚合酶鏈式反應）對特定DNA區域（如STR位點）進行高效率的體外擴增，將DNA量放大至可分析的程度。",
+      "tags": [
+        "DNA指紋",
+        "PCR",
+        "法醫學",
+        "微量DNA"
+      ]
+    },
+    {
+      "id": "BIO_ELEC_BE_150",
+      "subject": "BIO",
+      "category": "選修部分",
+      "module": "生物工程",
+      "chapter": "轉基因風險評估",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "以下哪項措施是為了降低基因改造生物（GMO）對環境的潛在負面影響？\n(1) 種植不育的GM作物\n(2) 在GM作物田周圍設立隔離帶\n(3) 使用生物農藥替代化學農藥\n(4) 對GM食品進行強制標籤",
+      "options": [
+        "A. (1) 和 (2)",
+        "B. (2) 和 (3)",
+        "C. (1)、(3) 和 (4)",
+        "D. (1)、(2) 和 (4)"
+      ],
+      "answer": "A",
+      "explanation": "(1) 不育作物可防止基因通過花粉擴散；(2) 隔離帶可減緩基因飄移的距離。這兩項是直接的環境風險管理措施。(3) 生物農藥是替代策略，並非僅針對GMO風險。(4) 食品標籤主要關乎消費者知情權，雖是總體管理的一部分，但非直接降低環境生態風險的措施。",
+      "tags": [
+        "GMO",
+        "環境風險",
+        "管理措施",
+        "風險管理"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_001",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項是生物（有機體）的共同特徵？",
+      "options": [
+        "A. 能進行光合作用",
+        "B. 能進行新陳代謝",
+        "C. 能移動位置",
+        "D. 有複雜的腦部"
+      ],
+      "answer": "B",
+      "explanation": "新陳代謝（包括同化作用和異化作用）是所有生物的基本特徵。A選項（光合作用）只有植物和部分原生生物能做到；C選項（移動）動物能做到，但植物不能主動移動；D選項（複雜腦部）只存在於部分動物。因此，只有新陳代謝是普遍適用的生物特徵。",
+      "tags": [
+        "生物特徵",
+        "新陳代謝"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_002",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "將生物分為動物界和植物界的主要依據是什麼？",
+      "options": [
+        "A. 體型大小",
+        "B. 能否自行製造食物",
+        "C. 是否生活在陸地",
+        "D. 細胞有無細胞核"
+      ],
+      "answer": "B",
+      "explanation": "傳統分類中，動物與植物的主要區別在於營養方式。植物是自養生物，能透過光合作用製造養分；動物是異養生物，須攝取其他有機體獲取養分。體型、棲息地或細胞核是否存在都不是最根本的分類標準。",
+      "tags": [
+        "分類",
+        "動物界",
+        "植物界"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_003",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪一項不是所有生物都具備的特徵？",
+      "options": [
+        "A. 需要能量",
+        "B. 由細胞組成",
+        "C. 對刺激有反應",
+        "D. 有神經系統"
+      ],
+      "answer": "D",
+      "explanation": "有神經系統是較複雜動物的特徵，例如哺乳類、鳥類等。然而，植物、單細胞生物（如變形蟲）和較原始的動物（如海綿）都沒有神經系統，但牠們仍然是有生命的。其他三項（需能、細胞構成、感應性）則是所有生物的共同特徵。",
+      "tags": [
+        "生物特徵",
+        "神經系統"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_004",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "綠色的植物被稱為「生產者」，原因是它們能夠：",
+      "options": [
+        "A. 生產氧氣供動物呼吸",
+        "B. 生產有機物（食物）供其他生物使用",
+        "C. 生產大量種子供繁殖",
+        "D. 生產葉綠素吸收陽光"
+      ],
+      "answer": "B",
+      "explanation": "在生態系統中，生產者（主要是綠色植物）能夠利用陽光、水和二氧化碳，通過光合作用合成有機物。這些有機物（如葡萄糖）是生態系統中其他生物（消費者、分解者）的能量來源。因此，生產者是食物鏈的起點。",
+      "tags": [
+        "生產者",
+        "生態系統",
+        "光合作用"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_005",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "一個科學家發現了一種新的生物體，它由單一細胞組成，沒有細胞核。它最有可能屬於哪一個界？",
+      "options": [
+        "A. 動物界",
+        "B. 植物界",
+        "C. 原生生物界",
+        "D. 原核生物界（細菌界）"
+      ],
+      "answer": "D",
+      "explanation": "原核生物（如細菌）最顯著的特徵是細胞沒有由膜包圍的細胞核（遺傳物質散在細胞質中）。題目中的「沒有細胞核」和「單細胞」正是原核生物界的典型特徵。動物、植物和原生生物都屬於真核生物，具有細胞核。",
+      "tags": [
+        "原核生物",
+        "分類",
+        "細胞核"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_006",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪一種物質是生物體內最豐富的無機化合物，也是細胞內化學反應的主要媒介？",
+      "options": [
+        "A. 葡萄糖",
+        "B. 蛋白質",
+        "C. 水",
+        "D. 脂肪"
+      ],
+      "answer": "C",
+      "explanation": "水是細胞內含量最多的分子，約佔細胞質的70%或以上。它作為優良的溶劑，是絕大多數細胞內化學反應發生的介質，同時也參與運輸、體溫調節等重要功能。葡萄糖、蛋白質和脂肪均屬有機物。",
+      "tags": [
+        "水",
+        "無機化合物",
+        "溶劑"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_007",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "構成蛋白質的基本單位（單體）是什麼？",
+      "options": [
+        "A. 氨基酸",
+        "B. 核苷酸",
+        "C. 單糖",
+        "D. 脂肪酸"
+      ],
+      "answer": "A",
+      "explanation": "蛋白質是由多個氨基酸分子通過肽鍵連接而成的生物大分子。氨基酸的排列順序和多肽鏈的折疊方式決定了蛋白質的最終結構和功能。核苷酸是核酸（DNA/RNA）的單體；單糖是碳水化合物的單體；脂肪酸是脂質的組成部分。",
+      "tags": [
+        "蛋白質",
+        "氨基酸",
+        "單體"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_008",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪一種是生物體內主要的儲能物質，每克能釋放出最多能量？",
+      "options": [
+        "A. 澱粉",
+        "B. 纖維素",
+        "C. 脂肪",
+        "D. 糖原"
+      ],
+      "answer": "C",
+      "explanation": "脂肪（脂質）是高效的儲能分子。每克脂肪完全氧化釋放的能量（約39 kJ）約為每克碳水化合物或蛋白質（約17 kJ）的兩倍多。因此，生物體傾向於用脂肪來長期儲存能量。澱粉和糖原是碳水化合物形式的短期儲能物質。",
+      "tags": [
+        "脂肪",
+        "脂質",
+        "能量儲存"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_009",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "碘液測試常用來檢測食物中含有哪一種有機物？",
+      "options": [
+        "A. 蛋白質",
+        "B. 澱粉",
+        "C. 葡萄糖",
+        "D. 脂肪"
+      ],
+      "answer": "B",
+      "explanation": "碘液（碘化鉀溶液）與澱粉接觸時，會產生藍黑色的複合物。這是一種非常靈敏且特異的定性測試，用於檢測澱粉的存在。蛋白質常用雙縮脲試劑（變紫）檢測；葡萄糖常用本立德試劑（加熱產生磚紅色沉澱）檢測；脂肪用蘇丹III/IV染劑或濾紙測試檢測。",
+      "tags": [
+        "碘液測試",
+        "澱粉",
+        "食物測試"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_010",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "DNA是一種重要的有機分子，其主要功能是：",
+      "options": [
+        "A. 提供細胞能量",
+        "B. 構成細胞膜的主要成分",
+        "C. 儲存和傳遞遺傳資訊",
+        "D. 催化細胞內的化學反應"
+      ],
+      "answer": "C",
+      "explanation": "DNA（脫氧核糖核酸）是遺傳物質。它儲存了生物體生長、發育、繁殖和代謝所需的所有遺傳指令（即基因）。這些資訊透過DNA複製傳遞給下一代，並透過轉錄和轉譯過程指導蛋白質的合成。A是ATP的功能；B是磷脂的功能；D是酶的功能。",
+      "tags": [
+        "DNA",
+        "遺傳物質",
+        "功能"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_011",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "核酸的基本組成單位是：",
+      "options": [
+        "A. 氨基酸",
+        "B. 核苷酸",
+        "C. 單糖",
+        "D. 脂肪酸"
+      ],
+      "answer": "B",
+      "explanation": "核酸（包括DNA和RNA）是由稱為核苷酸的單體聚合而成的大分子。每一個核苷酸由三部分組成：一個含氮鹼基、一個五碳糖（核糖或脫氧核糖）和一個磷酸基團。氨基酸是蛋白質的單體；單糖是碳水化合物的單體。",
+      "tags": [
+        "核酸",
+        "核苷酸",
+        "單體"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_012",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "將一塊肥豬肉放在白紙上用力按壓，紙張會變得半透明。這項測試主要是用來檢測：",
+      "options": [
+        "A. 澱粉",
+        "B. 蛋白質",
+        "C. 脂肪",
+        "D. 維生素"
+      ],
+      "answer": "C",
+      "explanation": "這是最簡單的脂肪定性測試之一。脂肪（油脂）會滲入紙張的纖維中，使紙張的透光性增加，形成半透明的油漬。這個測試也稱為「油漬測試」。",
+      "tags": [
+        "脂肪測試",
+        "油漬測試"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_013",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在光學顯微鏡下觀察洋蔥表皮細胞，最有可能看到以下哪個構造？",
+      "options": [
+        "A. 粒線體",
+        "B. 葉綠體",
+        "C. 細胞壁",
+        "D. 核糖體"
+      ],
+      "answer": "C",
+      "explanation": "細胞壁是植物細胞的明顯特徵，在光學顯微鏡下很容易觀察到，它呈現為細胞外圍的一層較透明的邊界。粒線體和核糖體體積非常小，在普通光學顯微鏡下難以分辨（需要電子顯微鏡）。洋蔥表皮細胞通常不含有葉綠體（因為它生長在地下，不見光）。",
+      "tags": [
+        "洋蔥表皮",
+        "細胞壁",
+        "顯微鏡觀察"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_014",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪個構造是植物細胞和動物細胞都共同擁有的？",
+      "options": [
+        "A. 細胞壁",
+        "B. 葉綠體",
+        "C. 大液泡",
+        "D. 細胞膜"
+      ],
+      "answer": "D",
+      "explanation": "細胞膜是所有細胞（不論是原核或真核、植物或動物）都必備的結構，它包裹著細胞質，控制物質進出。細胞壁、葉綠體和大型中央液泡是植物細胞（以及部分藻類）的典型特徵，動物細胞不具有這些結構。",
+      "tags": [
+        "細胞膜",
+        "共同構造",
+        "結構比較"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_015",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "細胞內的「能量工廠」，負責進行需氧呼吸（細胞呼吸）釋放能量，是哪個細胞器？",
+      "options": [
+        "A. 細胞核",
+        "B. 線粒體",
+        "C. 葉綠體",
+        "D. 內質網"
+      ],
+      "answer": "B",
+      "explanation": "線粒體是細胞進行需氧呼吸的主要場所。葡萄糖等有機物在線粒體內被分解，釋放出大量能量，並以ATP的形式儲存起來，供細胞各種生命活動使用。因此線粒體被稱為細胞的「動力工廠」。葉綠體是光合作用的場所。",
+      "tags": [
+        "線粒體",
+        "細胞呼吸",
+        "能量工廠"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_016",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "植物細胞中，負責儲存水分和維持細胞形狀（脹壓）的大型結構是：",
+      "options": [
+        "A. 細胞核",
+        "B. 葉綠體",
+        "C. 液泡",
+        "D. 細胞壁"
+      ],
+      "answer": "C",
+      "explanation": "植物細胞通常具有一個大型的中央液泡。它內部充滿了細胞液（含有水、糖類、色素等），主要功能包括：儲存水分和營養物質、維持細胞的膨壓（使植物挺立），以及隔離有害物質。",
+      "tags": [
+        "液泡",
+        "儲存",
+        "脹壓"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_017",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "下列哪個是細胞的控制中心，負責儲存遺傳物質（DNA）？",
+      "options": [
+        "A. 核糖體",
+        "B. 細胞膜",
+        "C. 線粒體",
+        "D. 細胞核"
+      ],
+      "answer": "D",
+      "explanation": "細胞核是細胞遺傳資訊的儲存和調控中心。它含有染色質（由DNA和蛋白質組成），DNA攜帶的遺傳指令控制著細胞的生長、代謝和繁殖等所有活動。",
+      "tags": [
+        "細胞核",
+        "控制中心",
+        "DNA"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_018",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "一群結構相似、共同執行特定功能的細胞組合，稱為：",
+      "options": [
+        "A. 器官",
+        "B. 系統",
+        "C. 組織",
+        "D. 有機體"
+      ],
+      "answer": "C",
+      "explanation": "在生物體的組織層次中，組織是介於細胞和器官之間的層級。它是由一群形態相似、功能相關的細胞及其細胞間質共同組成的結構單位，例如肌肉組織、神經組織、上皮組織等。",
+      "tags": [
+        "組織",
+        "層次",
+        "定義"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_019",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "氧氣從肺部進入血液的運輸方式主要是：",
+      "options": [
+        "A. 擴散作用",
+        "B. 滲透作用",
+        "C. 主動運輸",
+        "D. 吞噬作用"
+      ],
+      "answer": "A",
+      "explanation": "氧氣是一種小分子，且不帶電荷。它在肺泡內的濃度比血液中的高，因此會順著濃度梯度（由高濃度到低濃度），直接穿過肺泡壁和微血管壁的細胞膜，進入血液。這個過程不需要消耗能量，屬於簡單擴散。",
+      "tags": [
+        "擴散",
+        "氣體交換",
+        "被動運輸"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_020",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "將一個紅血細胞放入蒸餾水（純水）中，它很快就會脹破。這是因為：",
+      "options": [
+        "A. 水分子從細胞內擴散到細胞外",
+        "B. 水分子透過滲透作用大量進入細胞",
+        "C. 紅血細胞開始進行主動運輸吸水",
+        "D. 細胞外的鹽分溶入細胞內"
+      ],
+      "answer": "B",
+      "explanation": "滲透作用是水分子（溶劑）通過半透膜（在此為細胞膜）從水勢高（純水）的一側移動到水勢低（細胞內）的一側的過程。紅血細胞內含有鹽分和蛋白質，水勢低；而純水的水勢高。因此，大量水分子會湧入細胞，直至細胞無法承受而破裂（溶血）。",
+      "tags": [
+        "滲透",
+        "紅血細胞",
+        "溶血"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_021",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "下列哪一種物質的跨膜運輸需要消耗細胞的能量（ATP）？",
+      "options": [
+        "A. 氧進入線粒體",
+        "B. 二氧化碳離開細胞",
+        "C. 鉀離子從低濃度一側進入高濃度一側",
+        "D. 水分子進入根毛細胞"
+      ],
+      "answer": "C",
+      "explanation": "鉀離子從低濃度一側（如土壤溶液）運送到高濃度一側（如根毛細胞內），是逆向濃度梯度進行的，這必須依賴膜上的載體蛋白並消耗能量（ATP），屬於主動運輸。A和B是順濃度梯度擴散，不需能量。D是滲透作用（被動運輸）。",
+      "tags": [
+        "主動運輸",
+        "能量消耗",
+        "逆濃度梯度"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_022",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "滲透作用（osmosis）的定義中，關鍵的兩個必要條件是什麼？",
+      "options": [
+        "A. 需要載體蛋白和能量",
+        "B. 有濃度梯度和選擇性透過膜",
+        "C. 有濃度梯度和載體蛋白",
+        "D. 需要能量和選擇性透過膜"
+      ],
+      "answer": "B",
+      "explanation": "滲透作用是水分子通過選擇性透過膜（半透膜）的淨擴散。其發生的兩個必要條件是：(1) 存在一個選擇性透過膜（只允許某些物質通過）；(2) 膜兩側的水勢（或溶質濃度）存在差異，即存在濃度梯度（或水勢梯度）。",
+      "tags": [
+        "滲透作用",
+        "條件",
+        "半透膜"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_023",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "小腸內壁細胞吸收葡萄糖時，經常需要利用膜上的載體蛋白，並可能伴隨鈉離子的協同轉運。這種方式屬於：",
+      "options": [
+        "A. 簡單擴散",
+        "B. 易化擴散",
+        "C. 主動運輸",
+        "D. 胞飲作用"
+      ],
+      "answer": "C",
+      "explanation": "小腸上皮細胞吸收葡萄糖是典型的次級主動運輸。它需要載體蛋白，並能逆著（或沿著濃度梯度）進行。雖然葡萄糖的運輸方向通常是逆濃度梯度（需要能量），但能量來自於鈉離子的協同電化學梯度（鈉泵維護梯度）。無論如何，這都需要載體和提供能量形式的梯度，所以屬於主動運輸的一種。",
+      "tags": [
+        "主動運輸",
+        "葡萄糖吸收",
+        "小腸"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_024",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "變形蟲（Amoeba）吞噬食物顆粒的方式是：",
+      "options": [
+        "A. 擴散作用",
+        "B. 滲透作用",
+        "C. 胞吞作用（吞噬作用）",
+        "D. 主動運輸"
+      ],
+      "answer": "C",
+      "explanation": "胞吞作用（內吞作用）是細胞通過細胞膜凹陷，將外界的大分子物質或顆粒包裹起來，並形成小囊泡進入細胞內的過程。變形蟲用偽足包裹細菌等食物，這個過程是吞噬作用（一種胞吞作用），需要消耗能量。",
+      "tags": [
+        "胞吞作用",
+        "變形蟲",
+        "吞噬"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_025",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "細胞內所有化學反應的總稱（包括合成反應和分解反應）是：",
+      "options": [
+        "A. 呼吸作用",
+        "B. 光合作用",
+        "C. 新陳代謝",
+        "D. 蒸騰作用"
+      ],
+      "answer": "C",
+      "explanation": "新陳代謝（Metabolism）是生物體內維持生命活動所有化學反應的總和，它包含了兩大類：合成代謝（將小分子合成大分子，消耗能量）和分解代謝（將大分子分解為小分子，釋放能量）。呼吸作用是分解代謝的一部分；光合作用是合成代謝的一種。",
+      "tags": [
+        "新陳代謝",
+        "定義"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_026",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "酶（酵素）的化學本質主要是什麼？",
+      "options": [
+        "A. 碳水化合物",
+        "B. 脂質",
+        "C. 蛋白質",
+        "D. 核酸"
+      ],
+      "answer": "C",
+      "explanation": "絕大多數酶屬於蛋白質。它們是由細胞產生的生物催化劑，能加速特定化學反應的速率，而本身在反應前後保持不變。少數RNA（核酶）也具有催化功能，但在基礎生物學中，「酶主要是蛋白質」是核心概念。",
+      "tags": [
+        "酶",
+        "蛋白質",
+        "催化劑"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_027",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "酶作為催化劑，其作用是：",
+      "options": [
+        "A. 增加反應產物的能量",
+        "B. 降低反應所需的活化能",
+        "C. 改變反應的最終平衡點",
+        "D. 提供反應所需的能量"
+      ],
+      "answer": "B",
+      "explanation": "酶透過與底物（受質）結合，形成酶-底物複合物，穩定反應的過渡態，從而降低反應所需的活化能障礙。這使得反應在較低的能量水平下就能快速進行。酶不提供能量，也不改變反應的平衡。",
+      "tags": [
+        "酶",
+        "活化能",
+        "催化機制"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_028",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "唾液澱粉酶能催化澱粉分解，但對蛋白質沒有作用。這說明了酶的哪個特性？",
+      "options": [
+        "A. 高效性",
+        "B. 專一性",
+        "C. 可逆性",
+        "D. 穩定性"
+      ],
+      "answer": "B",
+      "explanation": "專一性（特異性）是指每一種酶只能催化一種或一類特定的化學反應。唾液澱粉酶的活性部位（受質結合位）的形狀僅能與澱粉分子匹配，無法與蛋白質分子結合併催化其分解。這是「鎖鑰模型」的核心概念。",
+      "tags": [
+        "酶",
+        "專一性",
+        "鎖鑰模型"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_029",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "人體大多數酶的適宜溫度約為37°C。當溫度升至80°C時，酶的反應速率會急劇下降甚至停止，主要原因是：",
+      "options": [
+        "A. 酶分子被分解成氨基酸",
+        "B. 酶分子的立體結構被破壞（變性）",
+        "C. 底物分子被破壞",
+        "D. 反應所需的能量消失"
+      ],
+      "answer": "B",
+      "explanation": "高溫會破壞維持酶蛋白質三維結構的弱鍵（如氫鍵、二硫鍵），導致酶的活性部位形狀發生不可逆的改變，這個過程稱為變性（denaturation）。變性後的酶無法再與底物結合，因而失去催化活性。",
+      "tags": [
+        "酶",
+        "變性",
+        "高溫"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_030",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "影響酶活性的主要因素包括什麼？\n(1) 溫度\n(2) pH值\n(3) 酶的濃度",
+      "options": [
+        "A. 只有 (1) 和 (2)",
+        "B. 只有 (1) 和 (3)",
+        "C. 只有 (2) 和 (3)",
+        "D. (1)、(2) 和 (3)"
+      ],
+      "answer": "D",
+      "explanation": "酶的活性受到多種因素的影響：(1) 溫度——影響分子動能和酶結構；(2) pH值——過酸或過鹼會使酶變性；(3) 酶的濃度——在底物充足時，反應速率與酶濃度成正比。因此，上述三項都是關鍵影響因素。",
+      "tags": [
+        "酶活性",
+        "影響因素"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_031",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "胃蛋白酶在人體胃中活性最高，其最適宜的pH值環境是：",
+      "options": [
+        "A. 強酸性（pH約2）",
+        "B. 中性（pH約7）",
+        "C. 弱鹼性（pH約8）",
+        "D. 強鹼性（pH約11）"
+      ],
+      "answer": "A",
+      "explanation": "胃是一個酸性環境，胃酸（鹽酸）使胃液的pH值維持在約2左右。胃蛋白酶正是在這種強酸性條件下才具有最高的催化活性，能有效地分解蛋白質。如果進入中性或鹼性環境（如小腸），胃蛋白酶會變性失活。",
+      "tags": [
+        "胃蛋白酶",
+        "pH",
+        "最適條件"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_032",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "有關酶在反應中作用的描述，下列哪項是正確的？",
+      "options": [
+        "A. 酶在反應後會被消耗殆盡",
+        "B. 酶可以重複使用",
+        "C. 酶的反應是不可逆的",
+        "D. 酶只能催化分解反應"
+      ],
+      "answer": "B",
+      "explanation": "酶是催化劑，其最重要的特性之一就是在反應過程中，酶的結構保持不變，並在反應結束後被釋放出來，可以繼續催化新的底物分子。因此，少量的酶就可以催化大量的反應。酶也能催化合成反應（如DNA聚合酶）。",
+      "tags": [
+        "酶",
+        "可重複使用",
+        "催化劑"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_033",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "下列哪一種維生素的缺乏會直接影響某些酶的活性？（提示：某些維生素是輔酶的組成部分）",
+      "options": [
+        "A. 維生素C",
+        "B. 維生素D",
+        "C. B族維生素",
+        "D. 維生素E"
+      ],
+      "answer": "C",
+      "explanation": "B族維生素（如維生素B1、B2、B3、B6、B12等）在體內主要作為輔酶（coenzyme）的前體。許多酶需要與輔酶結合才能發揮完整功能。例如，維生素B2（核黃素）是FAD（黃素腺嘌呤二核苷酸）的組成部分，參與細胞呼吸。缺乏B族維生素會影響相關代謝酶的活性。",
+      "tags": [
+        "B族維生素",
+        "輔酶",
+        "酶"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_034",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "過氧化氫酶（catalase）可以將有毒的過氧化氫迅速分解成水和氧氣。這個反應屬於：",
+      "options": [
+        "A. 合成代謝",
+        "B. 分解代謝",
+        "C. 光合作用",
+        "D. 主動運輸"
+      ],
+      "answer": "B",
+      "explanation": "分解代謝是指將複雜的大分子分解為簡單的小分子，並釋放能量的過程。過氧化氫酶將過氧化氫（H₂O₂）分解為水和氧氣，是將一種化合物分解為兩種更簡單的物質，因此屬於分解代謝反應。這是細胞內一種重要的解毒反應。",
+      "tags": [
+        "過氧化氫酶",
+        "分解代謝",
+        "解毒"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_035",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "下列哪項不是碳水化合物的功能？",
+      "options": [
+        "A. 提供能量",
+        "B. 構成細胞壁（纖維素）",
+        "C. 作為遺傳物質",
+        "D. 短期能量儲存（澱粉、糖原）"
+      ],
+      "answer": "C",
+      "explanation": "遺傳物質是核酸（DNA和RNA）的功能，核酸攜帶遺傳資訊。碳水化合物（糖類）的主要功能包括：即時供能（葡萄糖）、短期儲能（澱粉、糖原）、構成細胞結構（纖維素構成細胞壁、核糖構成核酸的一部分）。",
+      "tags": [
+        "碳水化合物",
+        "功能"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_036",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "一個氨基酸分子包含的中心碳原子連接了哪些基團？",
+      "options": [
+        "A. 氨基（-NH₂）和羧基（-COOH）",
+        "B. 羥基（-OH）和醛基（-CHO）",
+        "C. 磷酸基團（-PO₄）和含氮鹼基",
+        "D. 甲基（-CH₃）和氫原子（-H）"
+      ],
+      "answer": "A",
+      "explanation": "所有標準氨基酸的結構都有一個共同特徵：一個中心（α）碳原子，它共價連接著一個氨基（-NH₂）、一個羧基（-COOH）、一個氫原子（-H）和一個可變的側鏈（R基）。不同的側鏈決定了20種氨基酸的差異。",
+      "tags": [
+        "氨基酸",
+        "結構"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_037",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "下列哪種糖可以直接被人體細胞吸收利用作為能量來源？",
+      "options": [
+        "A. 澱粉",
+        "B. 蔗糖",
+        "C. 葡萄糖",
+        "D. 纖維素"
+      ],
+      "answer": "C",
+      "explanation": "葡萄糖是一種單糖，是細胞進行呼吸作用最直接、最常用的能量來源。人體小腸吸收的糖類最終都會轉化為葡萄糖才能進入血液循環，供全身細胞利用。澱粉、蔗糖是雙糖或多糖，需要消化分解成單糖才能被吸收。纖維素人體無法消化。",
+      "tags": [
+        "葡萄糖",
+        "單糖",
+        "能量"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_038",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "電子顯微鏡相比於光學顯微鏡的主要優勢是：",
+      "options": [
+        "A. 可以觀察活的細胞",
+        "B. 可以觀察細胞的顏色",
+        "C. 具有更高的放大率和解析度",
+        "D. 操作更簡單方便"
+      ],
+      "answer": "C",
+      "explanation": "電子顯微鏡利用電子束代替可見光，由於電子波的波長比可見光短得多，因此具有極高的解析能力（可達0.2 nm左右，光學顯微鏡約為200 nm）。這使得科學家能夠觀察到細胞內更精細的結構，如線粒體的內部嵴、核糖體等亞顯微結構。但電子顯微鏡無法觀察活細胞。",
+      "tags": [
+        "電子顯微鏡",
+        "解析度",
+        "優點"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_039",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在人體中，負責傳遞神經衝動的細胞是：",
+      "options": [
+        "A. 紅血細胞",
+        "B. 神經元（神經細胞）",
+        "C. 上皮細胞",
+        "D. 肌肉細胞"
+      ],
+      "answer": "B",
+      "explanation": "神經元（神經細胞）是神經系統結構和功能的單位，專門負責接收、整合和傳遞神經衝動（電信號）。紅血細胞負責運輸氧氣；上皮細胞構成體表和體腔內壁；肌肉細胞負責收縮產生運動。",
+      "tags": [
+        "神經元",
+        "功能",
+        "組織"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_040",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "葉綠體內進行光合作用的結構是：",
+      "options": [
+        "A. 基質（間質）",
+        "B. 類囊體（片層結構）",
+        "C. 外膜",
+        "D. 內膜"
+      ],
+      "answer": "B",
+      "explanation": "光合作用的光反應發生在葉綠體的類囊體（thylakoid）膜上，這裡含有葉綠素等光合色素及電子傳遞鏈，負責將光能轉化為化學能（ATP和NADPH）。暗反應（卡爾文循環）則在葉綠體的基質中進行。",
+      "tags": [
+        "葉綠體",
+        "類囊體",
+        "光合作用"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_041",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "生物體為了維持內部環境的相對穩定狀態，稱為：",
+      "options": [
+        "A. 新陳代謝",
+        "B. 穩態（體內平衡）",
+        "C. 生長",
+        "D. 繁殖"
+      ],
+      "answer": "B",
+      "explanation": "穩態（homeostasis）是指生物體（尤其是多細胞生物）透過各種調節機制，使其內部環境（如體溫、血糖濃度、pH值等）維持在一個相對穩定、狹窄的範圍內的過程。這是生命維持的重要條件。",
+      "tags": [
+        "穩態",
+        "定義"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_042",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "下列哪個選項中的兩種物質都是有機化合物？",
+      "options": [
+        "A. 水和氧氣",
+        "B. 葡萄糖和蛋白質",
+        "C. 二氧化碳和鹽",
+        "D. 礦物質和脂質"
+      ],
+      "answer": "B",
+      "explanation": "有機化合物通常指含有碳元素的化合物（除CO、CO₂、碳酸鹽等簡單碳化合物外）。葡萄糖（C₆H₁₂O₆）和蛋白質（含有C、H、O、N等）都是典型的有機物。水和氧氣是無機物；二氧化碳和鹽（NaCl）是無機物；礦物質是無機物。",
+      "tags": [
+        "有機物",
+        "無機物"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_043",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "細胞膜主要由哪兩種分子構成？",
+      "options": [
+        "A. 蛋白質和核酸",
+        "B. 磷脂和蛋白質",
+        "C. 糖類和脂肪",
+        "D. 纖維素和果膠"
+      ],
+      "answer": "B",
+      "explanation": "根據流動鑲嵌模型，細胞膜的基本骨架是由磷脂雙分子層構成的，它具有流動性。蛋白質分子鑲嵌或貫穿在磷脂雙層中，執行運輸、訊號傳遞、催化等多種功能。",
+      "tags": [
+        "細胞膜",
+        "磷脂",
+        "蛋白質"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_044",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "植物細胞處於高濃度鹽溶液中時，會出現質壁分離現象，這是因為：",
+      "options": [
+        "A. 細胞壁被鹽溶解",
+        "B. 細胞內的鹽分向外擴散",
+        "C. 水分從細胞內通過滲透作用流失到外界溶液",
+        "D. 細胞膜主動把水分子泵出細胞"
+      ],
+      "answer": "C",
+      "explanation": "當植物細胞處於高濃度（水勢低）的外界溶液時，細胞內的水勢相對較高。水分子會透過選擇性透過膜（細胞膜和液泡膜）從細胞內（高水勢）淨移動到細胞外（低水勢）。這導致液泡體積縮小，細胞膜與細胞壁分離，即質壁分離。",
+      "tags": [
+        "質壁分離",
+        "滲透",
+        "植物細胞"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_045",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "與擴散作用相比，易化擴散（facilitated diffusion）的獨特之處是：",
+      "options": [
+        "A. 需要消耗ATP",
+        "B. 可以逆濃度梯度運輸",
+        "C. 需要膜蛋白的協助",
+        "D. 運輸速度不受濃度影響"
+      ],
+      "answer": "C",
+      "explanation": "易化擴散也屬於被動運輸，不需要消耗能量，物質仍然順著濃度梯度從高濃度一側移動到低濃度一側。但是它與簡單擴散不同，需要細胞膜上的特定載體蛋白或通道蛋白的協助才能完成。",
+      "tags": [
+        "易化擴散",
+        "膜蛋白",
+        "被動運輸"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_046",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在一個酶促反應中，當所有酶分子都已被底物占據（飽和）時，增加底物濃度將導致：",
+      "options": [
+        "A. 反應速率無限增加",
+        "B. 反應速率保持不變",
+        "C. 酶會變性失活",
+        "D. 酶的濃度自動增加"
+      ],
+      "answer": "B",
+      "explanation": "酶促反應在達到最大速率（Vmax）後，反應速率不再隨底物濃度增加而增加。這是因為所有酶的活性部位都已被底物佔滿（飽和），酶已達到最大工作效率。此時，增加底物濃度無法進一步提高產生的速率。",
+      "tags": [
+        "酶",
+        "飽和",
+        "最大速率"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_047",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪種日常生活中的做法應用了酶能夠「降低活化能」的原理？",
+      "options": [
+        "A. 用鹽醃製肉類以延長保鮮期",
+        "B. 用含蛋白酶的洗衣粉去除衣物上的血漬",
+        "C. 用冰箱冷藏食物減緩細菌生長",
+        "D. 用高溫煮沸牛奶殺死細菌"
+      ],
+      "answer": "B",
+      "explanation": "含蛋白酶的洗衣粉中的酶能夠降低蛋白質（血漬的主要成分）分解反應所需的活化能，從而在常溫下就能快速有效地分解血漬。A是利用高滲透壓使細菌失水；C和D是利用低溫或高溫抑制或殺死微生物，而非直接利用酶促反應。",
+      "tags": [
+        "酶",
+        "應用",
+        "蛋白酶"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_048",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "要從磨碎的豬肝組織中提取過氧化氫酶進行實驗，需將組織置於低溫（0-4°C）環境下處理。這主要是為了：",
+      "options": [
+        "A. 防止酶（蛋白質）變性",
+        "B. 提高酶的活性",
+        "C. 增加酶的產量",
+        "D. 加速酶與底物結合"
+      ],
+      "answer": "A",
+      "explanation": "在提取和純化酶（蛋白質）的過程中，保持低溫是常見的策略。因為高溫會使蛋白質變性，從而導致酶失活。低溫雖然會降低酶的活性（分子運動減慢），但可以有效保護酶的天然構象，防止其在處理過程中因發熱或其他因素而變性。",
+      "tags": [
+        "酶",
+        "提取",
+        "低溫",
+        "變性"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_049",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "提出「細胞學說」的科學家認為：所有生物都是由細胞構成的，而且細胞是生命活動的基本單位。以下哪項最不支持這個觀點？",
+      "options": [
+        "A. 病毒沒有細胞結構，但能感染宿主細胞",
+        "B. 細菌是單細胞生物",
+        "C. 人的身體由數萬億個細胞組成",
+        "D. 植物的葉由大量葉肉細胞構成"
+      ],
+      "answer": "A",
+      "explanation": "病毒是一個例外。它們沒有典型的細胞結構（無細胞膜、細胞質、核糖體等），但依然具有生命特徵（能繁殖、有遺傳物質）。病毒的發現挑戰了古典細胞學說中「所有生物都由細胞構成」的觀點。因此，病毒常作為支持「細胞是生物體基本單位」這一觀點的反例來討論。B、C、D都是支援細胞學說的證據。",
+      "tags": [
+        "細胞學說",
+        "病毒",
+        "例外"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_050",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "下列哪項活動代表生物體正在進行「生長」？",
+      "options": [
+        "A. 一顆種子長成一棵大樹",
+        "B. 小狗在太陽下曬太陽取暖",
+        "C. 貓咪吃掉一條魚",
+        "D. 花朵在夜間閉合花瓣"
+      ],
+      "answer": "A",
+      "explanation": "生長是生物體體積或質量的增加，通常伴隨著細胞數目的增多或細胞體積的增大。種子萌發並長成大樹，是通過細胞分裂和細胞延長實現的體積與質量的永久性增加，屬於生長。B是體溫調節（行為）；C是攝食；D是感應性。",
+      "tags": [
+        "生長",
+        "特徵"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_051",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項是所有生物都需要的？",
+      "options": [
+        "A. 陽光",
+        "B. 氧氣",
+        "C. 能量",
+        "D. 土壤"
+      ],
+      "answer": "C",
+      "explanation": "所有生物都需要能量來維持生命活動，如生長、繁殖和運動。有些生物不需要陽光（如深海的魚），有些生物不需要氧氣（如厭氧細菌），也不是所有生物都生活在土壤中。",
+      "tags": [
+        "生物特徵",
+        "能量"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_052",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項是「繁殖」對生物族的意義？",
+      "options": [
+        "A. 增加個體的體重",
+        "B. 維持種族的延續",
+        "C. 改善環境的質素",
+        "D. 減少對食物的需求"
+      ],
+      "answer": "B",
+      "explanation": "繁殖是指生物產生後代的過程，其核心意義是確保種族能夠一代一代延續下去，不會因為個體死亡而滅絕。A是生長；C和D是其他方面的影響。",
+      "tags": [
+        "繁殖",
+        "種族延續"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_053",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "當我們觸碰含羞草的葉片時，葉片會閉合。這顯示生物具有以下哪項特徵？",
+      "options": [
+        "A. 運動",
+        "B. 感應性",
+        "C. 生長",
+        "D. 繁殖"
+      ],
+      "answer": "B",
+      "explanation": "感應性是指生物對環境中的刺激作出反應的能力。含羞草葉片閉合是對觸碰（刺激）的反應。A（運動）太廣泛，感應性是更精確的描述。",
+      "tags": [
+        "感應性",
+        "含羞草"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_054",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "科學家將生物分類成不同的界。以下哪項是分類的主要目的？",
+      "options": [
+        "A. 決定生物的經濟價值",
+        "B. 組織和認識生物的多樣性",
+        "C. 找出哪一種生物最美麗",
+        "D. 決定哪一種生物最強壯"
+      ],
+      "answer": "B",
+      "explanation": "生物分類的主要目的是將龐大且多樣的生物系統地組織起來，方便科學家進行研究、溝通和了解生物之間的演化關係。A、C和D都不是分類的科學目的。",
+      "tags": [
+        "分類",
+        "目的"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_055",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "哪一個生物界包括能夠進行光合作用的單細胞生物，例如矽藻？",
+      "options": [
+        "A. 動物界",
+        "B. 植物界",
+        "C. 原生生物界",
+        "D. 真菌界"
+      ],
+      "answer": "C",
+      "explanation": "原生生物界包括多樣化的真核生物，其中很多是單細胞的。矽藻是單細胞的藻類，能進行光合作用，因此歸類於原生生物界。植物界主要是指多細胞的綠色植物。",
+      "tags": [
+        "原生生物界",
+        "分類"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_056",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項是礦物質（無機鹽）在生物體內的功能？",
+      "options": [
+        "A. 提供即時能量",
+        "B. 構成骨骼和牙齒",
+        "C. 儲存遺傳資訊",
+        "D. 催化化學反應"
+      ],
+      "answer": "B",
+      "explanation": "礦物質如鈣和磷是構成骨骼和牙齒的重要成分。A是碳水化合物的功能；C是核酸的功能；D是酶的功能。",
+      "tags": [
+        "礦物質",
+        "功能"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_057",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "維生素C缺乏可能導致以下哪種疾病？",
+      "options": [
+        "A. 佝僂病",
+        "B. 夜盲症",
+        "C. 壞血病",
+        "D. 腳氣病"
+      ],
+      "answer": "C",
+      "explanation": "維生素C缺乏會導致壞血病，症狀包括牙齦出血、傷口癒合不良等。A（佝僂病）缺乏維生素D；B（夜盲症）缺乏維生素A；D（腳氣病）缺乏維生素B1。",
+      "tags": [
+        "維生素C",
+        "壞血病"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_058",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "下列哪種物質含有氮元素？",
+      "options": [
+        "A. 澱粉",
+        "B. 纖維素",
+        "C. 蛋白質",
+        "D. 脂肪"
+      ],
+      "answer": "C",
+      "explanation": "蛋白質由氨基酸組成，所有氨基酸都含有氨基（-NH₂），因此蛋白質一定含有氮元素。澱粉和纖維素是碳水化合物，只含C、H、O；脂肪（甘油三酯）也只含C、H、O。",
+      "tags": [
+        "蛋白質",
+        "氮元素"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_059",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "本立德試劑（Benedict's test）主要用於檢測哪種物質的存在？",
+      "options": [
+        "A. 澱粉",
+        "B. 還原糖（如葡萄糖）",
+        "C. 蛋白質",
+        "D. 脂肪"
+      ],
+      "answer": "B",
+      "explanation": "本立德試劑用於檢測還原糖的存在。當與還原糖（如葡萄糖、麥芽糖）混合並加熱後，會產生磚紅色的沉澱。A用碘液測試；C用雙縮脲試劑測試；D用油漬測試或蘇丹染劑。",
+      "tags": [
+        "本立德試劑",
+        "還原糖"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_060",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "蛋白質在生物體內除了提供能量外，還有以下哪項重要功能？",
+      "options": [
+        "A. 構成細胞膜的主要成分",
+        "B. 作為身體的長期能量儲存",
+        "C. 構成身體結構（如肌肉、毛髮）",
+        "D. 作為遺傳物質"
+      ],
+      "answer": "C",
+      "explanation": "蛋白質是構成身體結構的重要成分，例如肌肉中的肌動蛋白和肌球蛋白、毛髮和指甲中的角蛋白。A（細胞膜主要成分）是磷脂；B（長期儲能）是脂肪；D（遺傳物質）是DNA。",
+      "tags": [
+        "蛋白質",
+        "結構功能"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_061",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪種顯微鏡可以用來觀察活細胞的運動？",
+      "options": [
+        "A. 掃描電子顯微鏡",
+        "B. 透射電子顯微鏡",
+        "C. 光學顯微鏡",
+        "D. 以上都可以"
+      ],
+      "answer": "C",
+      "explanation": "光學顯微鏡使用可見光照射樣本，可以在保持細胞活性的情況下進行觀察。電子顯微鏡需要在高真空環境下操作，樣本必須經過固定、脫水等處理，因此無法觀察活細胞。",
+      "tags": [
+        "光學顯微鏡",
+        "活細胞"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_062",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在顯微鏡下觀察口腔上皮細胞時，為了使細胞核更清晰可見，通常會加入哪種染劑？",
+      "options": [
+        "A. 碘液",
+        "B. 亞甲藍液",
+        "C. 本立德試劑",
+        "D. 蘇丹III染劑"
+      ],
+      "answer": "B",
+      "explanation": "亞甲藍液是一種常見的細胞核染劑，它可以將細胞核染成藍色，使它在顯微鏡下更清晰。碘液主要用於檢測澱粉；本立德試劑用於檢測還原糖；蘇丹III用於檢測脂肪。",
+      "tags": [
+        "亞甲藍",
+        "染劑"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_063",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "下列哪一項不是動物細胞胞器？",
+      "options": [
+        "A. 線粒體",
+        "B. 核糖體",
+        "C. 葉綠體",
+        "D. 高爾基體"
+      ],
+      "answer": "C",
+      "explanation": "葉綠體是植物細胞和部分原生生物（如藻類）才擁有的胞器，用於進行光合作用。動物細胞不具有葉綠體。線粒體、核糖體和高爾基體在動物細胞和植物細胞中都有。",
+      "tags": [
+        "動物細胞",
+        "葉綠體"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_064",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項是神經組織的功能？",
+      "options": [
+        "A. 收縮產生運動",
+        "B. 傳遞神經衝動",
+        "C. 覆蓋身體表面",
+        "D. 連接和支持其他組織"
+      ],
+      "answer": "B",
+      "explanation": "神經組織由神經元（神經細胞）組成，專門負責接收、整合和傳遞神經衝動（電信號），協調身體的各種活動。A是肌肉組織的功能；C是上皮組織的功能；D是結締組織的功能。",
+      "tags": [
+        "神經組織",
+        "功能"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_065",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "心臟在人體的組織層次中屬於哪一級？",
+      "options": [
+        "A. 細胞",
+        "B. 組織",
+        "C. 器官",
+        "D. 系統"
+      ],
+      "answer": "C",
+      "explanation": "心臟由多種組織（如肌肉組織、神經組織、結締組織）構成，並共同執行泵送血液的特定功能，因此它是一個器官。",
+      "tags": [
+        "心臟",
+        "器官"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_066",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "將一株新鮮的芹菜放入紅色墨水中，幾小時後莖部的橫切面會出現紅色斑點。這主要是透過什麼運輸機制？",
+      "options": [
+        "A. 擴散作用",
+        "B. 滲透作用",
+        "C. 主動運輸",
+        "D. 木質部的毛細作用與蒸騰拉力"
+      ],
+      "answer": "D",
+      "explanation": "芹菜莖內有木質部導管，水分子（連同溶解的紅色墨水）從根部經木質部向上運輸，主要是依靠蒸騰作用產生的拉力以及水分子間的內聚力。這是一個整體的運輸過程，不只是單純的擴散或滲透。",
+      "tags": [
+        "木質部",
+        "運輸"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_067",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "下列哪種情況會導致紅血細胞發生「溶血」（脹破）？",
+      "options": [
+        "A. 將紅血細胞放入高濃度鹽水中",
+        "B. 將紅血細胞放入等滲溶液中",
+        "C. 將紅血細胞放入蒸餾水中",
+        "D. 將紅血細胞放入濃糖水中"
+      ],
+      "answer": "C",
+      "explanation": "蒸餾水相對於紅血細胞內液是低滲溶液（水勢高）。水會通過滲透作用大量湧入紅血細胞，導致細胞不斷膨脹，最終脹破（即溶血）。A和D是高滲溶液，細胞會失水皺縮。B是等滲溶液，細胞體積不變。",
+      "tags": [
+        "溶血",
+        "滲透"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_068",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "二氧化碳從身體細胞進入血液的運輸方式是：",
+      "options": [
+        "A. 滲透作用",
+        "B. 簡單擴散",
+        "C. 主動運輸",
+        "D. 胞吞作用"
+      ],
+      "answer": "B",
+      "explanation": "二氧化碳是細胞呼吸產生的廢物，在細胞內的濃度比血液中的高。因此它會順著濃度梯度，從高濃度（細胞內）向低濃度（血液中）擴散，這個過程不消耗能量，屬於簡單擴散。",
+      "tags": [
+        "二氧化碳",
+        "擴散"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_069",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "海帶細胞能夠從海水中吸收碘，而海水中的碘濃度遠低於海帶細胞內。這屬於哪種運輸方式？",
+      "options": [
+        "A. 簡單擴散",
+        "B. 滲透作用",
+        "C. 易化擴散",
+        "D. 主動運輸"
+      ],
+      "answer": "D",
+      "explanation": "海帶細胞吸收碘是將物質從低濃度一側（海水）運輸到高濃度一側（細胞內），是逆濃度梯度進行的。這必須消耗能量（ATP），並需要載體蛋白協助，因此屬於主動運輸。",
+      "tags": [
+        "主動運輸",
+        "海帶",
+        "逆濃度"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_070",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "植物根部吸收水分的主要區域是：",
+      "options": [
+        "A. 根冠",
+        "B. 分生區",
+        "C. 延長區",
+        "D. 根毛區"
+      ],
+      "answer": "D",
+      "explanation": "根毛區的根毛細胞具有大量的細長突出物（根毛），大大增加了表面積，利於從土壤中吸收水分和礦物質。根毛區是根部吸收水分最主要、最活躍的區域。",
+      "tags": [
+        "根毛區",
+        "水分吸收"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_071",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項是需氧呼吸（有氧呼吸）和缺氧呼吸（無氧呼吸）的共同點？",
+      "options": [
+        "A. 都在線粒體中進行",
+        "B. 都產生大量能量（ATP）",
+        "C. 都從糖酵解（分解葡萄糖）開始",
+        "D. 都以氧氣作為最終電子受體"
+      ],
+      "answer": "C",
+      "explanation": "無論需氧呼吸還是缺氧呼吸，第一階段都是糖酵解，即在細胞質中將葡萄糖分解為丙酮酸，並產生少量ATP。A：缺氧呼吸在細胞質進行；B：缺氧呼吸產生的能量較少；D：需氧呼吸才需要氧氣。",
+      "tags": [
+        "需氧呼吸",
+        "缺氧呼吸",
+        "糖酵解"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_072",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "人在劇烈運動後，肌肉感到酸痛，這主要是因為肌肉細胞進行了：",
+      "options": [
+        "A. 需氧呼吸，產生大量二氧化碳",
+        "B. 缺氧呼吸，產生乳酸",
+        "C. 光合作用，產生氧氣",
+        "D. 蛋白質分解，產生氨基酸"
+      ],
+      "answer": "B",
+      "explanation": "劇烈運動時，肌肉細胞對能量的需求急增，但氧氣供應可能不足。此時，肌肉細胞會進行缺氧呼吸（乳酸發酵），將葡萄糖分解為乳酸，並釋放少量能量。乳酸的積累會刺激神經末梢，引起肌肉酸痛。",
+      "tags": [
+        "缺氧呼吸",
+        "乳酸",
+        "肌肉酸痛"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_073",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "細胞進行需氧呼吸的主要場所是：",
+      "options": [
+        "A. 細胞質",
+        "B. 細胞核",
+        "C. 線粒體",
+        "D. 葉綠體"
+      ],
+      "answer": "C",
+      "tags": [
+        "需氧呼吸",
+        "線粒體"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_074",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "發酵作用（如製作麵包或釀酒）依賴於微生物進行：",
+      "options": [
+        "A. 需氧呼吸",
+        "B. 光合作用",
+        "C. 缺氧呼吸",
+        "D. 蒸騰作用"
+      ],
+      "answer": "C",
+      "explanation": "製作麵包利用酵母菌進行缺氧呼吸（酒精發酵），產生二氧化碳使麵糰膨脹。釀酒同樣利用酵母菌在無氧條件下將糖分解為酒精和二氧化碳。這都屬於缺氧呼吸的應用。",
+      "tags": [
+        "發酵",
+        "缺氧呼吸"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_075",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "下列哪項不是影響酶活性的因素？",
+      "options": [
+        "A. 底物濃度",
+        "B. 酶的顏色",
+        "C. 溫度",
+        "D. pH值"
+      ],
+      "answer": "B",
+      "explanation": "酶的顏色與其活性無關，酶的活性由蛋白質的結構決定。溫度、pH值和底物濃度都是影響酶活性的重要因素。",
+      "tags": [
+        "酶活性",
+        "顏色"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_076",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在酶促反應中，「酶-底物複合物」是指：",
+      "options": [
+        "A. 酶被分解後的產物",
+        "B. 酶與底物暫時結合的結構",
+        "C. 底物與抑制劑的混合物",
+        "D. 反應完成後釋放的能量"
+      ],
+      "answer": "B",
+      "explanation": "在催化反應的過程中，底物分子會與酶的活性部位（特定區域）結合，形成一個短暫的、不穩定的「酶-底物複合物」。這個複合物的形成降低了活化能，使反應更容易發生。",
+      "tags": [
+        "酶-底物複合物",
+        "催化"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_077",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪項是鎖和鑰匙模型（lock and key model）的核心概念？",
+      "options": [
+        "A. 酶的結構會因底物而改變",
+        "B. 酶的活性部位與底物形狀互補",
+        "C. 酶只能在高溫下工作",
+        "D. 酶可以催化任何反應"
+      ],
+      "answer": "B",
+      "explanation": "鎖和鑰匙模型認為，酶的活性部位（鎖）具有特定的三維形狀，只有與其互補的底物（鑰匙）才能精確地結合。這是解釋酶專一性的經典模型。",
+      "tags": [
+        "鎖鑰模型",
+        "專一性"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_078",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在一個固定酶濃度的反應中，增加底物濃度到一定程度後，反應速率不再增加。這是由於：",
+      "options": [
+        "A. 酶已全部被底物佔據（飽和）",
+        "B. 底物已全部被消耗",
+        "C. 酶已經變性",
+        "D. 反應溫度太高"
+      ],
+      "answer": "A",
+      "explanation": "當所有酶的活性部位都已經被底物分子佔據時，即使再增加底物濃度，也沒有多餘的酶來處理更多的底物，因此反應速率會達到最大值（Vmax），並維持不變。",
+      "tags": [
+        "酶飽和",
+        "Vmax"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_079",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "有些藥物可以與酶的活性部位結合，從而阻止底物與酶的結合。這種機制屬於：",
+      "options": [
+        "A. 競爭性抑制",
+        "B. 非競爭性抑制",
+        "C. 反饋抑制",
+        "D. 酶變性"
+      ],
+      "answer": "A",
+      "explanation": "競爭性抑制劑的形狀與底物相似，會與底物競爭酶的活性部位。當抑制劑佔據了活性部位時，底物就無法結合，從而抑制了反應。增加底物濃度可以減少這種抑制。",
+      "tags": [
+        "競爭性抑制",
+        "抑制劑"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_080",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "科學探究的第一個步驟通常是：",
+      "options": [
+        "A. 進行實驗",
+        "B. 分析結果",
+        "C. 提出問題或觀察現象",
+        "D. 作出結論"
+      ],
+      "answer": "C",
+      "explanation": "科學探究通常始於對某個現象的觀察或提出一個問題，然後科學家會根據問題提出假設，再設計實驗來驗證假設，最後分析數據並得出結論。因此，提出問題是起點。",
+      "tags": [
+        "科學探究",
+        "步驟"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_081",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "食物中的纖維素（膳食纖維）對人體的益處是：",
+      "options": [
+        "A. 提供大量能量",
+        "B. 促進腸道蠕動，預防便秘",
+        "C. 構成身體肌肉",
+        "D. 儲存遺傳資訊"
+      ],
+      "answer": "B",
+      "explanation": "人體缺乏消化纖維素的酶，因此纖維素不能被吸收提供能量。但纖維素可以增加糞便體積，刺激腸道蠕動，有助於預防便秘和降低腸癌風險。",
+      "tags": [
+        "纖維素",
+        "膳食纖維"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_082",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "脂肪在消化道中被消化成什麼才能被吸收？",
+      "options": [
+        "A. 氨基酸",
+        "B. 葡萄糖",
+        "C. 脂肪酸和甘油",
+        "D. 核苷酸"
+      ],
+      "answer": "C",
+      "explanation": "脂肪（甘油三酯）由一個甘油分子和三個脂肪酸分子組成。在脂肪酶的作用下，它會被分解為甘油和脂肪酸，然後才能被小腸上皮細胞吸收。A：蛋白質的消化產物；B：碳水化合物的消化產物；D：核酸的消化產物。",
+      "tags": [
+        "脂肪消化",
+        "脂肪酸",
+        "甘油"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_083",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "以下哪種維生素是脂溶性的？",
+      "options": [
+        "A. 維生素B",
+        "B. 維生素C",
+        "C. 維生素D",
+        "D. 以上都是水溶性的"
+      ],
+      "answer": "C",
+      "explanation": "維生素可分為水溶性（如維生素B群、維生素C）和脂溶性（如維生素A、D、E、K）。維生素D是脂溶性的，可以在脂肪組織中儲存。",
+      "tags": [
+        "維生素D",
+        "脂溶性"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_084",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "植物體內運輸水分和無機鹽的結構是：",
+      "options": [
+        "A. 篩管",
+        "B. 導管（木質部）",
+        "C. 形成層",
+        "D. 皮層"
+      ],
+      "answer": "B",
+      "explanation": "導管是木質部的主要組成部分，由一連串死亡的細胞構成中空的管道，負責將水分和溶解在水中的礦物質從根部向上運輸到植物的各個部分。A（篩管）是韌皮部的一部分，負責運輸有機養分。",
+      "tags": [
+        "導管",
+        "木質部"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_085",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "葉子中負責進行光合作用的主要組織是：",
+      "options": [
+        "A. 表皮",
+        "B. 葉肉組織",
+        "C. 葉脈",
+        "D. 角質層"
+      ],
+      "answer": "B",
+      "explanation": "葉肉組織位於葉子的上表皮和下表皮之間，含有大量的葉綠體，是光合作用發生的主要場所。A（表皮）主要起保護作用；C（葉脈）負責運輸；D（角質層）防止水分蒸發。",
+      "tags": [
+        "葉肉組織",
+        "光合作用"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_086",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在生物體的組織層次中，由不同組織共同構成，並執行特定功能的結構單位是：",
+      "options": [
+        "A. 細胞",
+        "B. 組織",
+        "C. 器官",
+        "D. 系統"
+      ],
+      "answer": "C",
+      "explanation": "組織層次由小到大依次是：細胞 → 組織 → 器官 → 系統 → 個體。器官由多種不同的組織（如上皮組織、肌肉組織、神經組織等）按照一定的次序結合在一起，共同完成特定的生理功能，如心臟、胃、肝臟等。",
+      "tags": [
+        "器官",
+        "層次"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_087",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "植物細胞在低滲溶液（如清水）中不會脹破，這是因為它們具有：",
+      "options": [
+        "A. 細胞膜",
+        "B. 細胞壁",
+        "C. 液泡",
+        "D. 葉綠體"
+      ],
+      "answer": "B",
+      "explanation": "植物細胞外圍有堅硬的細胞壁，主要由纖維素構成。當細胞因吸水而膨脹時，細胞壁會產生一個反作用力（壁壓力），阻止細胞繼續膨脹，從而防止細胞脹破。這是植物細胞與動物細胞的顯著差異。",
+      "tags": [
+        "細胞壁",
+        "保護"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_088",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "下列哪種物質不能自由穿過細胞膜的磷脂雙分子層？",
+      "options": [
+        "A. 氧氣",
+        "B. 二氧化碳",
+        "C. 鈉離子（Na⁺）",
+        "D. 水"
+      ],
+      "answer": "C",
+      "explanation": "細胞膜的內部是疏水的（不溶於水）。帶電荷的離子（如鈉離子、鉀離子）和較大的極性分子（如葡萄糖）難以直接穿過磷脂雙分子層。它們需要藉助膜上的通道蛋白或載體蛋白才能進行跨膜運輸。氧氣、二氧化碳和水（小分子）可以自由擴散通過。",
+      "tags": [
+        "離子",
+        "細胞膜"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_089",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "腎臟中，葡萄糖從腎小管腔重新回到血液的過程主要依賴：",
+      "options": [
+        "A. 簡單擴散",
+        "B. 滲透作用",
+        "C. 主動運輸",
+        "D. 胞吐作用"
+      ],
+      "answer": "C",
+      "explanation": "正常情況下，腎小管腔中的葡萄糖濃度低於血液中的濃度，但身體需要將所有有用的葡萄糖回收。因此，葡萄糖是逆著濃度梯度從腎小管腔運輸到周圍的微血管中，這需要載體蛋白並消耗能量，屬於主動運輸。",
+      "tags": [
+        "葡萄糖",
+        "主動運輸",
+        "腎臟"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_090",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "光合作用中，光反應產生的ATP和NADPH主要用於：",
+      "options": [
+        "A. 分解二氧化碳",
+        "B. 還原三碳化合物（C3）",
+        "C. 分解水分子",
+        "D. 產生氧氣"
+      ],
+      "answer": "B",
+      "explanation": "在光合作用的暗反應（卡爾文循環）中，ATP提供能量，NADPH提供還原力，用於將3-磷酸甘油酸（三碳化合物）還原並進一步合成葡萄糖。A和D是光反應的過程。",
+      "tags": [
+        "光合作用",
+        "暗反應",
+        "ATP"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_091",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "同樣質量的下列物質中，哪一種在體內氧化時釋放的能量最多？",
+      "options": [
+        "A. 葡萄糖",
+        "B. 蛋白質",
+        "C. 脂肪",
+        "D. 維生素"
+      ],
+      "answer": "C",
+      "explanation": "脂肪含有的碳氫鍵比例最高，因此氧化分解時能釋放出最多的能量（約每克39千焦），遠高於碳水化合物（每克17千焦）和蛋白質（每克17千焦）。維生素不是主要的能量來源。",
+      "tags": [
+        "脂肪",
+        "能量密度"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_092",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "溫度對酶活性的影響表現為：低溫時酶活性____，高溫時酶____。",
+      "options": [
+        "A. 不變 / 更容易工作",
+        "B. 降低 / 會變性失活",
+        "C. 增加 / 會變性失活",
+        "D. 降低 / 工作效率更高"
+      ],
+      "answer": "B",
+      "explanation": "低溫下，分子運動減慢，酶與底物碰撞頻率降低，因此酶活性降低但結構未破壞（可恢復）。高溫會破壞酶的蛋白質結構（變性），導致活性部位形狀改變，造成不可逆的失活。",
+      "tags": [
+        "溫度",
+        "酶活性"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_093",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "ATP被稱為細胞的「能量貨幣」，是因為它：",
+      "options": [
+        "A. 儲存大量長期能量",
+        "B. 能直接為細胞活動提供能量",
+        "C. 是一種維生素",
+        "D. 構成細胞膜的主要成分"
+      ],
+      "answer": "B",
+      "explanation": "ATP（三磷酸腺苷）是細胞內直接的能量來源。當ATP末端的磷酸鍵斷裂時，會釋放出能量，供肌肉收縮、物質運輸、化學合成等各種需能反應使用。它是一種即時的能量供應者。",
+      "tags": [
+        "ATP",
+        "能量貨幣"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_094",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "人體內進行化學消化時，負責分解蛋白質的酶是：",
+      "options": [
+        "A. 澱粉酶",
+        "B. 脂肪酶",
+        "C. 蛋白酶（如胃蛋白酶）",
+        "D. 麥芽糖酶"
+      ],
+      "answer": "C",
+      "explanation": "蛋白酶（protease）是一類能將蛋白質分解為多肽和氨基酸的酶。胃蛋白酶是其中一種，在胃的酸性環境中工作。A分解澱粉；B分解脂肪；D分解麥芽糖。",
+      "tags": [
+        "蛋白酶",
+        "消化"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_095",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "光合作用中，氧氣是從哪個反應中產生的？",
+      "options": [
+        "A. 卡爾文循環（暗反應）",
+        "B. 光反應",
+        "C. 固氮作用",
+        "D. 呼吸作用"
+      ],
+      "answer": "B",
+      "explanation": "在光合作用的光反應階段，葉綠素吸收光能，將水分子（H₂O）分解，釋放出氧氣（O₂）。這個過程稱為水的光解。產生的氫離子和電子用於合成ATP和NADPH。",
+      "tags": [
+        "光合作用",
+        "水光解",
+        "氧氣"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_096",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在一個實驗中，我們設置了對照組（control group）。對照組的目的是：",
+      "options": [
+        "A. 確保實驗結果是正面的",
+        "B. 提供一個比較的基準，證明實驗變量的作用",
+        "C. 增加實驗的複雜性",
+        "D. 保證所有變量都不同"
+      ],
+      "answer": "B",
+      "explanation": "對照組是實驗中除了要測試的變量（自變量）外，其他條件都與實驗組完全相同的組別。它的作用是提供一個比較的標準，使我們能夠確定觀察到的結果是由於改變自變量所導致的，而不是其他因素。",
+      "tags": [
+        "對照組",
+        "實驗設計"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_097",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在食物測試中，用雙縮脲試劑測試樣本後呈現紫色，表示樣本中含有：",
+      "options": [
+        "A. 澱粉",
+        "B. 還原糖",
+        "C. 蛋白質",
+        "D. 脂肪"
+      ],
+      "answer": "C",
+      "explanation": "雙縮脲試劑在鹼性環境中與蛋白質的肽鍵反應，形成紫色的複合物。這是檢測蛋白質存在的標準方法。A用碘液（變藍黑）；B用本立德試劑（加熱變磚紅）；D用油漬測試或蘇丹染劑。",
+      "tags": [
+        "雙縮脲試劑",
+        "蛋白質",
+        "紫色"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_098",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "人體中，負責運輸氧氣的蛋白質是：",
+      "options": [
+        "A. 血纖維蛋白",
+        "B. 血紅蛋白",
+        "C. 抗體",
+        "D. 酶"
+      ],
+      "answer": "B",
+      "explanation": "血紅蛋白存在於紅血細胞中，它含有一個鐵離子，能與氧分子可逆地結合。當血液流經肺部時，血紅蛋白與氧結合（形成氧合血紅蛋白），然後將氧運輸到全身各組織。",
+      "tags": [
+        "血紅蛋白",
+        "運輸氧氣"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_099",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "在顯微鏡下觀察到的洋蔥表皮細胞呈長方形，緊密排列。這是因為它具有以下哪種結構？",
+      "options": [
+        "A. 葉綠體",
+        "B. 細胞壁",
+        "C. 大液泡",
+        "D. 粒線體"
+      ],
+      "answer": "B",
+      "explanation": "細胞壁是植物細胞外側的一層堅硬結構，賦予了細胞固定的形狀。洋蔥表皮細胞緊密排列，形成保護層，主要歸功於細胞壁的支持作用。大液泡有助於維持脹壓，但細胞本身的形狀主要靠細胞壁維持。",
+      "tags": [
+        "細胞壁",
+        "形狀"
+      ]
+    },
+    {
+      "id": "BIO_CORE_CM_100",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 0,
+      "questionText": "生物體能夠由小長大，主要依賴於以下哪兩個過程？",
+      "options": [
+        "A. 細胞分裂和細胞生長（延長）",
+        "B. 細胞分化和細胞死亡",
+        "C. 呼吸作用和排泄",
+        "D. 消化和吸收"
+      ],
+      "answer": "A",
+      "explanation": "多細胞生物的生長主要體現在兩個方面：一是通過細胞分裂增加細胞的數量；二是通過細胞生長（吸收營養，體積增大）增加細胞的體積。這兩個過程共同導致生物體體積和質量的增加。",
+      "tags": [
+        "生長",
+        "細胞分裂"
+      ]
+    },
+    {
+      "id": "BIO_HF_01",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "以下哪項特徵是生物與非生物的最大分別？",
+      "options": [
+        "A. 能夠生長",
+        "B. 需要能量",
+        "C. 能夠繁殖",
+        "D. 能夠對刺激作出反應"
+      ],
+      "answer": "C",
+      "explanation": "雖然所有生物都擁有生長、需能、感應性等特徵，但「繁殖」（產生後代）是生物最根本、獨有的特徵，用以確保物種的延續。非生物無法透過繁殖產生與自身相似的個體。",
+      "tags": [
+        "生物特徵",
+        "繁殖"
+      ]
+    },
+    {
+      "id": "BIO_HF_02",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "將生物分類成不同界別的主要目的是什麼？",
+      "options": [
+        "A. 決定生物的實用價值",
+        "B. 系統地認識和組織生物的多樣性",
+        "C. 找出最原始的物種",
+        "D. 為生物命名"
+      ],
+      "answer": "B",
+      "explanation": "生物分類學的主要目的是將地球上數以百萬計、形態各異的生物，按親緣關係和共同特徵，有系統地分門別類，方便科學家們進行研究、溝通和理解演化關係。",
+      "tags": [
+        "分類",
+        "目的"
+      ]
+    },
+    {
+      "id": "BIO_HF_03",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "下列哪個生物界別的成員，體內細胞均沒有細胞核？",
+      "options": [
+        "A. 植物界",
+        "B. 原生生物界",
+        "C. 真菌界",
+        "D. 原核生物界"
+      ],
+      "answer": "D",
+      "explanation": "原核生物（如細菌）的細胞沒有由核膜包圍的細胞核，遺傳物質散落在細胞質中。其他三個界別的生物均為真核生物，細胞內有明顯的細胞核。",
+      "tags": [
+        "原核生物",
+        "細胞核"
+      ]
+    },
+    {
+      "id": "BIO_HF_04",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在科學探究中，一個良好的實驗必須包含：",
+      "options": [
+        "A. 一個自變項和多個應變項",
+        "B. 對照實驗和重複實驗",
+        "C. 最先進的儀器設備",
+        "D. 一個無法被驗證的假說"
+      ],
+      "answer": "B",
+      "explanation": "對照實驗能排除其他因素影響，證明自變項的效應；重複實驗則可增加結果的可靠性和準確性，減少偶然誤差。這是良好實驗設計的基石。",
+      "tags": [
+        "實驗設計",
+        "對照",
+        "重複"
+      ]
+    },
+    {
+      "id": "BIO_HF_05",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "含羞草的葉片被觸碰後會閉合，這顯示生物具有什麼特徵？",
+      "options": [
+        "A. 運動",
+        "B. 生長",
+        "C. 感應性",
+        "D. 呼吸作用"
+      ],
+      "answer": "C",
+      "explanation": "生物能對環境中的刺激（如觸碰、光、溫度等）作出反應，這種能力稱為感應性。含羞草的反應是一種典型的向觸性反應。",
+      "tags": [
+        "感應性",
+        "刺激",
+        "反應"
+      ]
+    },
+    {
+      "id": "BIO_HF_06",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生物學入門",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "病毒不被歸類為生物，主要是因為它們：",
+      "options": [
+        "A. 體積比細菌還要小",
+        "B. 不能在宿主細胞外進行代謝和繁殖",
+        "C. 會引起疾病",
+        "D. 沒有蛋白質外殼"
+      ],
+      "answer": "B",
+      "explanation": "病毒沒有細胞結構，必須寄生在活細胞內，利用宿主的代謝機制才能進行複製。脫離宿主細胞後，它們表現得像沒有生命的化學粒子，不能獨立進行新陳代謝。",
+      "tags": [
+        "病毒",
+        "非生物"
+      ]
+    },
+    {
+      "id": "BIO_HF_07",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "下列哪種試劑可用來測試食物中是否含有還原糖？",
+      "options": [
+        "A. 碘液",
+        "B. 雙縮脲試劑",
+        "C. 本立德試劑",
+        "D. 蘇丹III染劑"
+      ],
+      "answer": "C",
+      "explanation": "本立德試劑（Benedict's test）與還原糖（如葡萄糖、麥芽糖）混合加熱後，會生成磚紅色的氧化亞銅沉澱。A用於測試澱粉；B用於測試蛋白質；D用於測試脂肪。",
+      "tags": [
+        "本立德試劑",
+        "還原糖",
+        "食物測試"
+      ]
+    },
+    {
+      "id": "BIO_HF_08",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "蛋白質在生物體內的主要功能不包括以下哪項？",
+      "options": [
+        "A. 作為結構成分（如肌肉、毛髮）",
+        "B. 作為催化化學反應的酶",
+        "C. 作為主要的長期能量儲存物質",
+        "D. 作為抗體參與免疫反應"
+      ],
+      "answer": "C",
+      "explanation": "蛋白質主要功能包括結構支持、催化（酶）、免疫（抗體）和運輸等。但長期能量儲存主要是脂肪（脂質）的功能，碳水化合物（如肝糖）負責短期能量儲存。",
+      "tags": [
+        "蛋白質",
+        "功能",
+        "能量儲存"
+      ]
+    },
+    {
+      "id": "BIO_HF_09",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "缺乏下列哪種維生素會導致夜盲症？",
+      "options": [
+        "A. 維生素A",
+        "B. 維生素B1",
+        "C. 維生素C",
+        "D. 維生素D"
+      ],
+      "answer": "A",
+      "explanation": "維生素A是構成視網膜中感光細胞（視杆細胞）內感光物質（視紫紅質）的重要成分。缺乏維生素A會影響人在昏暗光線下的視力，導致夜盲症。",
+      "tags": [
+        "維生素A",
+        "夜盲症"
+      ]
+    },
+    {
+      "id": "BIO_HF_10",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "脂肪和碳水化合物在元素組成上的主要差異是，脂肪通常含有：",
+      "options": [
+        "A. 較多的氧原子",
+        "B. 較多的氫原子比例",
+        "C. 氮原子",
+        "D. 磷原子"
+      ],
+      "answer": "B",
+      "explanation": "與碳水化合物相比，脂肪分子含有較多的碳氫鍵，而氧原子的比例較低。這使得脂肪在氧化時能釋放出更多的能量（約為等量碳水化合物的兩倍）。",
+      "tags": [
+        "脂肪",
+        "元素組成",
+        "能量"
+      ]
+    },
+    {
+      "id": "BIO_HF_11",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "DNA（脫氧核糖核酸）的基本組成單位是什麼？",
+      "options": [
+        "A. 氨基酸",
+        "B. 核苷酸",
+        "C. 單糖",
+        "D. 脂肪酸"
+      ],
+      "answer": "B",
+      "explanation": "DNA 是一種由多個核苷酸聚合而成的長鏈分子。每個核苷酸由一個磷酸基團、一個五碳糖（脫氧核糖）和一個含氮鹼基組成。A是蛋白質的基本單位。",
+      "tags": [
+        "DNA",
+        "核苷酸"
+      ]
+    },
+    {
+      "id": "BIO_HF_12",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "細胞膜主要由哪兩種分子構成？",
+      "options": [
+        "A. 蛋白質和核酸",
+        "B. 磷脂和蛋白質",
+        "C. 碳水化合物和膽固醇",
+        "D. 磷脂和澱粉"
+      ],
+      "answer": "B",
+      "explanation": "細胞膜的基本骨架是磷脂雙分子層，其上鑲嵌或附著有各種蛋白質，負責物質運輸、信號傳遞等功能。因此，磷脂和蛋白質是細胞膜的兩大主要成分。",
+      "tags": [
+        "細胞膜",
+        "磷脂",
+        "蛋白質"
+      ]
+    },
+    {
+      "id": "BIO_HF_13",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "生命分子",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在進行食物測試時，將碘液滴在樣本上呈藍黑色，表示樣本中含有：",
+      "options": [
+        "A. 葡萄糖",
+        "B. 蛋白質",
+        "C. 澱粉",
+        "D. 脂肪"
+      ],
+      "answer": "C",
+      "explanation": "碘液（碘-碘化鉀溶液）與澱粉（一種多糖）會形成藍黑色的錯合物。這是檢測澱粉存在的簡便而靈敏的指標。",
+      "tags": [
+        "碘液",
+        "澱粉",
+        "藍黑色"
+      ]
+    },
+    {
+      "id": "BIO_HF_14",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "下列哪種顯微鏡最適合用來觀察活細胞的運動？",
+      "options": [
+        "A. 掃描式電子顯微鏡",
+        "B. 穿透式電子顯微鏡",
+        "C. 光學顯微鏡",
+        "D. 螢光顯微鏡"
+      ],
+      "answer": "C",
+      "explanation": "光學顯微鏡使用可見光照明，可以在不殺死細胞的情況下觀察其形態和運動。電子顯微鏡需要在高真空環境下操作，樣本必須經過固定、脫水等處理，無法觀察活細胞。",
+      "tags": [
+        "光學顯微鏡",
+        "活細胞"
+      ]
+    },
+    {
+      "id": "BIO_HF_15",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "以下哪項是動物細胞有而植物細胞沒有的結構？",
+      "options": [
+        "A. 中心粒",
+        "B. 葉綠體",
+        "C. 細胞壁",
+        "D. 大液泡"
+      ],
+      "answer": "A",
+      "explanation": "中心粒存在於動物細胞中，與細胞分裂時紡錘體的形成有關。植物細胞一般沒有中心粒（但部分低等植物有）。B、C、D都是植物細胞典型的結構。",
+      "tags": [
+        "中心粒",
+        "動物細胞"
+      ]
+    },
+    {
+      "id": "BIO_HF_16",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "植物細胞之所以在清水中不會脹破，是因為它們有：",
+      "options": [
+        "A. 細胞膜",
+        "B. 大液泡",
+        "C. 堅硬的細胞壁",
+        "D. 葉綠體"
+      ],
+      "answer": "C",
+      "explanation": "植物細胞外層的細胞壁主要由纖維素構成，具有堅韌的結構。當細胞吸水膨脹時，細胞壁會產生壁壓力抵禦內部壓力，防止細胞過度膨脹甚至破裂。",
+      "tags": [
+        "細胞壁",
+        "保護",
+        "滲透"
+      ]
+    },
+    {
+      "id": "BIO_HF_17",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "人體中，負責傳遞神經衝動的組織是：",
+      "options": [
+        "A. 上皮組織",
+        "B. 神經組織",
+        "C. 肌肉組織",
+        "D. 結締組織"
+      ],
+      "answer": "B",
+      "explanation": "神經組織由神經元（神經細胞）和神經膠質細胞組成，其功能是接收、整合和傳遞訊息（神經衝動），從而協調身體各部分的活動。",
+      "tags": [
+        "神經組織",
+        "功能"
+      ]
+    },
+    {
+      "id": "BIO_HF_18",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "胃在人體的組織層次中屬於：",
+      "options": [
+        "A. 細胞層次",
+        "B. 組織層次",
+        "C. 器官層次",
+        "D. 系統層次"
+      ],
+      "answer": "C",
+      "explanation": "胃是由多種組織（如上皮組織、肌肉組織、結締組織、神經組織）有機結合而成，共同執行消化食物的特定功能，因此它是一個器官。",
+      "tags": [
+        "層次",
+        "器官"
+      ]
+    },
+    {
+      "id": "BIO_HF_19",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "負責光合作用的葉綠體存在於植物的哪個部分？",
+      "options": [
+        "A. 所有活細胞",
+        "B. 主要分布在葉片和綠色莖部的細胞",
+        "C. 只分布在根部細胞",
+        "D. 只分布在花部細胞"
+      ],
+      "answer": "B",
+      "explanation": "葉綠體是進行光合作用的胞器，主要存在於植物的綠色部分，尤其是葉片和幼嫩的綠色莖部。根部細胞通常不進行光合作用，沒有葉綠體。",
+      "tags": [
+        "葉綠體",
+        "分布"
+      ]
+    },
+    {
+      "id": "BIO_HF_20",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "細胞與組織",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "組織層次的排列順序，由簡單到複雜是：",
+      "options": [
+        "A. 細胞 → 器官 → 組織 → 系統",
+        "B. 器官 → 組織 → 系統 → 細胞",
+        "C. 細胞 → 組織 → 器官 → 系統",
+        "D. 系統 → 器官 → 組織 → 細胞"
+      ],
+      "answer": "C",
+      "explanation": "多細胞生物體的結構層次由小至大依次為：細胞（基本單位）→ 組織（同類型細胞群）→ 器官（不同組織構成）→ 系統（不同器官構成）→ 個體。",
+      "tags": [
+        "層次",
+        "排序"
+      ]
+    },
+    {
+      "id": "BIO_HF_21",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "將紅血細胞放入蒸餾水中，細胞會：",
+      "options": [
+        "A. 保持不變",
+        "B. 萎縮",
+        "C. 脹破（溶血）",
+        "D. 先縮小後恢復"
+      ],
+      "answer": "C",
+      "explanation": "蒸餾水的水勢高於紅血細胞內液。水會通過滲透作用大量湧入細胞，紅血細胞沒有細胞壁的保護，會不斷膨脹最終導致細胞膜破裂，即溶血現象。",
+      "tags": [
+        "溶血",
+        "滲透",
+        "低滲"
+      ]
+    },
+    {
+      "id": "BIO_HF_22",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "下列哪一種物質穿越細胞膜的方式需要消耗能量（ATP）？",
+      "options": [
+        "A. 氧氣進入紅血細胞",
+        "B. 二氧化碳離開細胞",
+        "C. 海帶細胞吸收海水中的碘",
+        "D. 水分子通過細胞膜"
+      ],
+      "answer": "C",
+      "explanation": "海帶細胞內的碘濃度遠高於海水，它需要逆濃度梯度吸收碘，這是一個消耗能量的主動運輸過程。A、B、D都是順濃度梯度進行，不消耗能量。",
+      "tags": [
+        "主動運輸",
+        "逆濃度",
+        "海帶"
+      ]
+    },
+    {
+      "id": "BIO_HF_23",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "植物根部吸收水分最主要、最活躍的區域是：",
+      "options": [
+        "A. 根冠",
+        "B. 分生區",
+        "C. 延長區",
+        "D. 根毛區"
+      ],
+      "answer": "D",
+      "explanation": "根毛區的表皮細胞向外伸出大量細長的根毛，大大增加了吸收表面積，並且根毛能緊密接觸土壤顆粒，是吸收水分和礦物質的主要部位。",
+      "tags": [
+        "根毛區",
+        "吸收水分"
+      ]
+    },
+    {
+      "id": "BIO_HF_24",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "一個成熟的植物細胞，其水勢力通常比：",
+      "options": [
+        "A. 高濃度蔗糖溶液高",
+        "B. 低濃度蔗糖溶液低",
+        "C. 蒸餾水高",
+        "D. 以上都是正確的"
+      ],
+      "answer": "A",
+      "explanation": "水分從水勢高的地方流向水勢低的地方。將植物細胞放入高濃度蔗糖溶液（水勢低），細胞會失水。這表示細胞的水勢比高濃度溶液高。水和低濃度溶液的水勢都比細胞內液高。",
+      "tags": [
+        "水勢",
+        "滲透"
+      ]
+    },
+    {
+      "id": "BIO_HF_25",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "二氧化碳從身體細胞進入血液，是通過什麼運輸方式？",
+      "options": [
+        "A. 簡單擴散",
+        "B. 易化擴散",
+        "C. 主動運輸",
+        "D. 胞吞作用"
+      ],
+      "answer": "A",
+      "explanation": "二氧化碳是細胞呼吸產生的廢物，在細胞內的濃度遠高於血液。它是一種小分子，可以順著濃度梯度直接穿過細胞膜的磷脂雙分子層，這個過程稱為簡單擴散，不消耗能量。",
+      "tags": [
+        "二氧化碳",
+        "簡單擴散"
+      ]
+    },
+    {
+      "id": "BIO_HF_26",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "腎臟中，葡萄糖從腎小管腔被重吸收回血液，主要依靠：",
+      "options": [
+        "A. 簡單擴散",
+        "B. 滲透作用",
+        "C. 主動運輸",
+        "D. 過濾作用"
+      ],
+      "answer": "C",
+      "explanation": "雖然血液中的葡萄糖濃度可能高於腎小管腔，但對身體而言，葡萄糖是寶貴的資源，需要被完全回收。這個過程需要載體蛋白和能量（ATP），因此屬於主動運輸。",
+      "tags": [
+        "葡萄糖",
+        "重吸收",
+        "主動運輸"
+      ]
+    },
+    {
+      "id": "BIO_HF_27",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "下列哪種離子（或分子）需要藉助膜蛋白才能穿越細胞膜？",
+      "options": [
+        "A. 氧氣（O₂）",
+        "B. 鈉離子（Na⁺）",
+        "C. 二氧化碳（CO₂）",
+        "D. 水（H₂O）"
+      ],
+      "answer": "B",
+      "explanation": "離子帶有電荷，磷脂雙分子層的內部是疏水的，對帶電離子具有極強的不通透性。因此，鈉離子必須通過膜上的專用通道蛋白或載體蛋白才能進出細胞。",
+      "tags": [
+        "離子",
+        "膜蛋白"
+      ]
+    },
+    {
+      "id": "BIO_HF_28",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "關於細胞膜上載體蛋白的描述，下列哪項是錯誤的？",
+      "options": [
+        "A. 它們是蛋白質",
+        "B. 它們在運輸物質時會改變形狀",
+        "C. 它們只參與被動運輸",
+        "D. 它們對運輸的物質具有專一性"
+      ],
+      "answer": "C",
+      "explanation": "載體蛋白既參與不需要能量的被動運輸（如易化擴散），也參與需要消耗能量的主動運輸。因此，C的陳述是錯誤的。A、B、D是載體蛋白的正確特性。",
+      "tags": [
+        "載體蛋白",
+        "專一性"
+      ]
+    },
+    {
+      "id": "BIO_HF_29",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "植物細胞在質壁分離（plasmolysis）時，水分的移動方向是：",
+      "options": [
+        "A. 從細胞外流向液泡內",
+        "B. 從液泡流向細胞外",
+        "C. 在細胞內循環",
+        "D. 靜止不動"
+      ],
+      "answer": "B",
+      "explanation": "當植物細胞處於高滲溶液（如濃糖水）中時，細胞內的水勢高於外界溶液。水分會通過滲透作用從液泡經細胞質流向細胞外，導致細胞質收縮，與細胞壁分離。",
+      "tags": [
+        "質壁分離",
+        "滲透",
+        "失水"
+      ]
+    },
+    {
+      "id": "BIO_HF_30",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "物質跨膜運輸",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "人體小腸絨毛上皮細胞吸收脂肪酸和甘油是通過：",
+      "options": [
+        "A. 簡單擴散",
+        "B. 易化擴散",
+        "C. 主動運輸",
+        "D. 胞吞作用"
+      ],
+      "answer": "A",
+      "explanation": "脂肪酸和甘油是脂溶性小分子，它們可以像氧氣、二氧化碳一樣，順著濃度梯度直接穿過細胞膜的磷脂雙分子層，不需要載體和能量。",
+      "tags": [
+        "脂肪酸",
+        "簡單擴散"
+      ]
+    },
+    {
+      "id": "BIO_HF_31",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "細胞進行需氧呼吸的主要場所是：",
+      "options": [
+        "A. 細胞質",
+        "B. 細胞核",
+        "C. 線粒體",
+        "D. 葉綠體"
+      ],
+      "answer": "C",
+      "explanation": "需氧呼吸的第二階段（克雷伯氏循環）在線粒體基質中進行，第三階段（氧化磷酸化）在線粒體內膜進行，這兩個階段產生了絕大部分的能量（ATP）。",
+      "tags": [
+        "線粒體",
+        "需氧呼吸"
+      ]
+    },
+    {
+      "id": "BIO_HF_32",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "劇烈運動後，肌肉產生酸痛感，主要是因為積累了：",
+      "options": [
+        "A. 二氧化碳",
+        "B. 乳酸",
+        "C. 酒精",
+        "D. ATP"
+      ],
+      "answer": "B",
+      "explanation": "劇烈運動時，氧氣供應不足，肌肉細胞進行缺氧呼吸產生乳酸。乳酸堆積會刺激神經末梢，引起酸痛感。酵母菌在缺氧時才會產生酒精和二氧化碳。",
+      "tags": [
+        "乳酸",
+        "缺氧呼吸"
+      ]
+    },
+    {
+      "id": "BIO_HF_33",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "製作麵包時，使麵糰膨脹的氣體主要是：",
+      "options": [
+        "A. 由酵母菌需氧呼吸產生的氧氣",
+        "B. 由酵母菌缺氧呼吸產生的二氧化碳",
+        "C. 由細菌呼吸產生的氫氣",
+        "D. 由麵粉化學反應產生的氮氣"
+      ],
+      "answer": "B",
+      "explanation": "製作麵包使用的酵母菌，在無氧條件下進行酒精發酵（一種缺氧呼吸），將麵糰中的糖分解，產生大量二氧化碳和酒精。二氧化碳氣泡被困在麵筋網絡中，使麵糰膨脹、鬆軟。",
+      "tags": [
+        "發酵",
+        "酵母菌",
+        "二氧化碳"
+      ]
+    },
+    {
+      "id": "BIO_HF_34",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "酶的化學本質主要是：",
+      "options": [
+        "A. 碳水化合物",
+        "B. 脂質",
+        "C. 蛋白質",
+        "D. 核酸"
+      ],
+      "answer": "C",
+      "explanation": "絕大多數酶的化學本質是蛋白質。它們由氨基酸組成，具有特定的三維結構（活性部位）來結合底物並催化反應。少數RNA分子也具有催化功能，稱為核酶。",
+      "tags": [
+        "酶",
+        "蛋白質"
+      ]
+    },
+    {
+      "id": "BIO_HF_35",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "酶的作用原理是：",
+      "options": [
+        "A. 提供反應所需的能量",
+        "B. 降低反應的活化能",
+        "C. 改變反應的平衡點",
+        "D. 消耗自身來促進反應"
+      ],
+      "answer": "B",
+      "explanation": "酶可以與底物形成不穩定的「酶-底物複合物」，從而顯著降低化學反應所需的活化能，使反應更容易、更快速地進行。酶本身在反應前後並不會被消耗或改變。",
+      "tags": [
+        "活化能",
+        "催化"
+      ]
+    },
+    {
+      "id": "BIO_HF_36",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "下列哪項是影響酶活性的主要內在因素？",
+      "options": [
+        "A. 溫度",
+        "B. pH值",
+        "C. 酶的濃度",
+        "D. 酶的分子結構"
+      ],
+      "answer": "D",
+      "explanation": "酶的活性取決於其特定的三維分子結構（特別是活性部位的形狀）。溫度、pH值和底物濃度是影響酶活性的外在因素，它們通過影響酶的結構穩定性和分子運動來改變活性。",
+      "tags": [
+        "酶",
+        "結構",
+        "活性"
+      ]
+    },
+    {
+      "id": "BIO_HF_37",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "人體胃蛋白酶的最適 pH 值約為：",
+      "options": [
+        "A. pH 2",
+        "B. pH 7",
+        "C. pH 9",
+        "D. pH 11"
+      ],
+      "answer": "A",
+      "explanation": "胃蛋白酶在胃部環境中工作，胃酸（鹽酸）使得胃腔的pH值維持在強酸性（約pH 1.5-3.5）。因此，胃蛋白酶的最適pH為酸性，約在pH 2左右。",
+      "tags": [
+        "胃蛋白酶",
+        "最適pH"
+      ]
+    },
+    {
+      "id": "BIO_HF_38",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "高溫會使酶永久失去活性，這個過程稱為：",
+      "options": [
+        "A. 水解",
+        "B. 變性",
+        "C. 凝固",
+        "D. 還原"
+      ],
+      "answer": "B",
+      "explanation": "高溫能破壞維持酶蛋白質三維結構的弱鍵（如氫鍵），導致其空間構象發生不可逆的改變，活性部位被破壞，從而失去催化功能，這個過程稱為變性（denaturation）。",
+      "tags": [
+        "變性",
+        "高溫"
+      ]
+    },
+    {
+      "id": "BIO_HF_39",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在一個酶促反應中，當酶的濃度固定時，增加底物濃度至飽和後，反應速率不再增加，這是因為：",
+      "options": [
+        "A. 酶已全部被底物佔據",
+        "B. 底物已全部被消耗",
+        "C. 酶已經變性",
+        "D. 反應受到抑制"
+      ],
+      "answer": "A",
+      "explanation": "當底物濃度達到飽和點時，所有酶分子的活性部位都已被底物佔據。此時，增加底物濃度不能提供更多的「空位」，因此反應速率達到最大值並保持恆定。",
+      "tags": [
+        "酶飽和",
+        "Vmax"
+      ]
+    },
+    {
+      "id": "BIO_HF_40",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "下列哪項是需氧呼吸和缺氧呼吸的共同點？",
+      "options": [
+        "A. 都產生大量ATP",
+        "B. 都發生在粒線體中",
+        "C. 都需要氧氣參與",
+        "D. 都從糖酵解開始"
+      ],
+      "answer": "D",
+      "explanation": "無論有無氧氣，細胞呼吸的第一步都是糖酵解，即將葡萄糖分解為丙酮酸並產生小量ATP和NADH。糖酵解發生在細胞質中。之後的途徑則因氧氣是否充足而異。",
+      "tags": [
+        "糖酵解",
+        "共同點"
+      ]
+    },
+    {
+      "id": "BIO_HF_41",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "光合作用中，氧氣是下列哪個過程產生的？",
+      "options": [
+        "A. 二氧化碳固定",
+        "B. 三碳化合物還原",
+        "C. 水的光解",
+        "D. 二氧化碳受體再生"
+      ],
+      "answer": "C",
+      "explanation": "在光合作用的光反應階段，葉綠素吸收光能，將水分子（H₂O）分解為氧氣（O₂）、電子（e⁻）和氫離子（H⁺）。這個過程稱為水的光解。",
+      "tags": [
+        "光合作用",
+        "光反應",
+        "氧氣"
+      ]
+    },
+    {
+      "id": "BIO_HF_42",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "細胞中直接提供能量給大多數生命活動的「能量貨幣」是：",
+      "options": [
+        "A. 葡萄糖",
+        "B. 脂肪",
+        "C. ATP（三磷酸腺苷）",
+        "D. NADH"
+      ],
+      "answer": "C",
+      "explanation": "ATP是細胞內的能量載體。當細胞需要進行化學反應、物質運輸、肌肉收縮等工作時，ATP會水解並釋放出儲存在高能磷酸鍵中的能量，直接供能。",
+      "tags": [
+        "ATP",
+        "能量貨幣"
+      ]
+    },
+    {
+      "id": "BIO_HF_43",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "分子體積很小的氧氣，其穿越肺泡壁和微血管壁進入血液的方式是：",
+      "options": [
+        "A. 擴散作用",
+        "B. 滲透作用",
+        "C. 主動運輸",
+        "D. 胞飲作用"
+      ],
+      "answer": "A",
+      "explanation": "肺泡內的氧氣濃度比周圍微血管中血液的氧氣濃度高。氧氣是一種小分子的非極性氣體，可以順著這個濃度梯度，直接穿過細胞膜，自由擴散進入血液。",
+      "tags": [
+        "氧氣",
+        "擴散",
+        "氣體交換"
+      ]
+    },
+    {
+      "id": "BIO_HF_44",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "關於酶的「鎖與鑰匙模型」，下列哪項描述是正確的？",
+      "options": [
+        "A. 酶的形狀在與底物結合後會發生改變",
+        "B. 酶的活性部位形狀與底物形狀是互補的",
+        "C. 一把鑰匙可以打開所有的鎖",
+        "D. 鎖的結構會根據鑰匙而改變"
+      ],
+      "answer": "B",
+      "explanation": "「鎖與鑰匙模型」強調酶的專一性。它比喻酶的活性部位（鎖）具有固定的、特定的三維形狀，只有與其完全互補的底物（鑰匙）才能準確結合併發生反應。",
+      "tags": [
+        "鎖與鑰匙",
+        "專一性"
+      ]
+    },
+    {
+      "id": "BIO_HF_45",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "下列哪項陳述是正確的？",
+      "options": [
+        "A. 酶在催化反應後會被消耗殆盡",
+        "B. 酶可以降低反應的活化能",
+        "C. 酶可以為反應提供能量",
+        "D. 酶只能催化一種方向的化學反應"
+      ],
+      "answer": "B",
+      "explanation": "酶通過與底物結合形成過渡態，有效降低了化學反應所需的活化能，使反應更容易發生。酶在反應中不會被消耗，可以重複使用。",
+      "tags": [
+        "活化能",
+        "酶"
+      ]
+    },
+    {
+      "id": "BIO_HF_46",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "將試管中的澱粉酶溶液加熱煮沸，冷卻後再加入澱粉溶液，結果澱粉不會被分解。原因是：",
+      "options": [
+        "A. 煮沸消耗了澱粉酶",
+        "B. 高溫使澱粉酶變性失活",
+        "C. 冷卻後溫度太低不適合反應",
+        "D. 澱粉在高溫下也被破壞了"
+      ],
+      "answer": "B",
+      "explanation": "高溫會破壞澱粉酶（蛋白質）的三維結構，導致其活性部位形狀改變，無法與澱粉結合。這個變性過程是不可逆的，因此冷卻後酶也無法恢復活性。",
+      "tags": [
+        "變性",
+        "加熱",
+        "澱粉酶"
+      ]
+    },
+    {
+      "id": "BIO_HF_47",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "人類小腸內消化蛋白質、澱粉和脂肪的酶，分別是什麼？",
+      "options": [
+        "A. 蛋白酶、澱粉酶、脂肪酶",
+        "B. 脂肪酶、蛋白酶、澱粉酶",
+        "C. 澱粉酶、脂肪酶、蛋白酶",
+        "D. 蛋白酶、脂肪酶、澱粉酶"
+      ],
+      "answer": "A",
+      "explanation": "小腸是消化和吸收的主要場所。胰液和腸液中含有各種消化酶，蛋白質被蛋白酶分解，澱粉被澱粉酶分解，脂肪被脂肪酶分解。",
+      "tags": [
+        "消化酶",
+        "小腸"
+      ]
+    },
+    {
+      "id": "BIO_HF_48",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "植物光合作用產生的葡萄糖，在體內主要用於：",
+      "options": [
+        "A. 構成細胞壁的纖維素",
+        "B. 直接為細胞活動提供能量",
+        "C. 轉化為儲存性的澱粉",
+        "D. 以上皆是"
+      ],
+      "answer": "D",
+      "explanation": "光合作用產生的葡萄糖在植物體內有多種用途：一部分用於呼吸作用提供能量（B），一部分被合成為纖維素構成細胞壁（A），剩餘的則儲存為澱粉或脂肪以供日後使用（C）。",
+      "tags": [
+        "葡萄糖",
+        "用途"
+      ]
+    },
+    {
+      "id": "BIO_HF_49",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "發酵工業（如釀酒）中，主要利用的是哪種微生物的哪種作用？",
+      "options": [
+        "A. 乳酸菌的需氧呼吸",
+        "B. 酵母菌的酒精發酵",
+        "C. 黴菌的光合作用",
+        "D. 細菌的硝化作用"
+      ],
+      "answer": "B",
+      "explanation": "釀酒的核心是利用酵母菌在無氧環境下進行的酒精發酵（一種缺氧呼吸）。酵母菌將葡萄糖等糖類分解，生成酒精（乙醇）和二氧化碳。",
+      "tags": [
+        "發酵",
+        "釀酒",
+        "酵母菌"
+      ]
+    },
+    {
+      "id": "BIO_HF_50",
+      "subject": "BIO",
+      "category": "必修部分",
+      "module": "細胞與生命分子",
+      "chapter": "新陳代謝與酶",
+      "type": "MC",
+      "difficulty": 1,
+      "questionText": "在一個測量溫度對酶活性影響的實驗中，應變項（dependent variable）最可能是：",
+      "options": [
+        "A. 反應溶液的溫度",
+        "B. 反應溶液的pH值",
+        "C. 酶與底物的濃度",
+        "D. 產物生成的速率"
+      ],
+      "answer": "D",
+      "explanation": "在這個實驗中，研究人員主動改變的是溫度（自變項），而觀察和測量的是溫度改變所導致的結果。產物生成的速率或底物減少的速率（即反應速率）能直接反映酶活性，是典型的應變項。",
+      "tags": [
+        "實驗設計",
+        "應變項",
+        "溫度"
+      ]
+    }
+  ]
+}
